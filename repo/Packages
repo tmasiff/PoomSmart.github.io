@@ -13,6 +13,21 @@ Name: 3G Unrestrictor Flipswitch
 Author: PoomSmart
 Depends: mobilesubstrate, com.a3tweaks.flipswitch
 
+Package: com.ps.anywherepredict
+Version: 1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: .///debs/com.ps.anywherepredict_1.0-1_iphoneos-arm.deb
+Size: 3840
+MD5sum: aec1dc73dfc8c81a24b1ea2e16be3d9c
+Section: Tweaks
+Description: Predictive keyboard anywhere.
+Name: AnywherePredict
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/anywherepredict/index.html
+Depends: mobilesubstrate, firmware (>= 8.0)
+
 Package: com.ps.buddylock
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -97,13 +112,13 @@ Architecture: iphoneos-arm
 Installed-Size: 16
 Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 8.0), gsc.still-camera
 Filename: .///debs/com.ps.sixtyfps7_0.0.1_iphoneos-arm.deb
-Size: 3342
-MD5sum: 5801913af5cb31b443be043f7beabcba
+Size: 3340
+MD5sum: 3c0c865bf8e1e07e24b21b5da024da4e
 Section: Tweaks
 Description: 60 fps capture support for camera!
 Name: 60fps7
 Author: PoomSmart
-Depiction: http://PoomSmart.github.io/repo/sixtyfps7/index.html
+Depiction: http://PoomSmart.github.io/repo/60fps7/index.html
 Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 8.0), gsc.still-camera
 
 Package: com.ps.slicesflipswitch
