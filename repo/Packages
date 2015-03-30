@@ -1,3 +1,16 @@
+Package: com.ps.cammodelist
+Version: 0.0.1
+Architecture: iphoneos-arm
+Installed-Size: 256
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: .///debs/com.ps.cammodelist_0.0.1_iphoneos-arm.deb
+Size: 75470
+MD5sum: 462aa2ceeac03cc7d9ea132545df5cb3
+Section: Tweaks
+Description: List available camera modes instead of scrolling.
+Name: CamModeList
+Author: PoomSmart
+
 Package: com.ps.mylapse
 Version: 1.0-1
 Architecture: iphoneos-arm
