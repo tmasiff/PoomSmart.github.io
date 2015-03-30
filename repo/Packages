@@ -62,8 +62,9 @@ Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate
 Conflicts: gsc.ipad
 Filename: .///debs/com.ps.campad_1.0-1_iphoneos-arm.deb
-Size: 6808
-MD5sum: 75f77526a2a0e54fdf24b71032d282e4
+Size: 6816
+MD5sum: 805b3e02242db51214823a2f86b65255
+Section: Tweaks
 Description: iPad camera UI, for iPhone/iPod. iOS 7+.
 Name: CamPad
 Author: PoomSmart
@@ -78,8 +79,9 @@ Maintainer: PoomSmart
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 5.0), gsc.dictation
 Filename: .///debs/com.ps.dictationpasscode_1.0-1_iphoneos-arm.deb
-Size: 11328
-MD5sum: 5a6978a587e11ed9031c87fd1416e17c
+Size: 11348
+MD5sum: 7668bcc1a2fdb20405be7ab5902735a8
+Section: Tweaks
 Description: Force enable Dictation when typing passcode.
 Name: DictationPasscode
 Author: PoomSmart
