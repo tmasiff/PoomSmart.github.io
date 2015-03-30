@@ -11,6 +11,7 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for 3G Unrestrictor.
 Name: 3G Unrestrictor Flipswitch
 Author: PoomSmart
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
 
 Package: com.ps.buddylock
 Version: 1.0-1
@@ -25,6 +26,7 @@ Description: Hello at lockscreen!
 Name: BuddyLock
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/buddylock/index.html
+Depends: mobilesubstrate, firmware (>= 7.0)
 
 Package: com.ps.cammodelist
 Version: 0.0.1
@@ -39,6 +41,7 @@ Description: List available camera modes instead of scrolling.
 Name: CamModeList
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/cammodelist/index.html
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 
 Package: com.ps.campad
 Version: 1.0-1
@@ -54,6 +57,9 @@ Description: iPad camera UI, for iPhone/iPod. iOS 7+.
 Name: CamPad
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/campad/index.html
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Conflicts: gsc.ipad
 
 Package: com.ps.flexibleflipswitch
 Version: 0.0.1-1
@@ -68,6 +74,7 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for FLEXible.
 Name: FLEXible Flipswitch
 Author: PoomSmart
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.shmoopillc.flexible
 
 Package: com.ps.mylapse
 Version: 1.0-1
@@ -82,6 +89,7 @@ Description: Time-lapse extender.
 Name: MyLapse
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
+Depends: mobilesubstrate, firmware (>= 8.0)
 
 Package: com.ps.sixtyfps7
 Version: 0.0.1
@@ -96,6 +104,7 @@ Description: 60 fps capture support for camera!
 Name: 60fps7
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/sixtyfps7/index.html
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 8.0), gsc.still-camera
 
 Package: com.ps.slicesflipswitch
 Version: 0.0.1-1
@@ -110,6 +119,7 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for Slices.
 Name: Slices Flipswitch
 Author: PoomSmart
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
 
 Package: com.ps.smarttapflipswitch
 Version: 0.0.1-1
@@ -124,6 +134,7 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for SmartTap.
 Name: SmartTap Flipswitch
 Author: PoomSmart
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
 
 Package: com.ps.wificallingfs
 Version: 0.0.1-1
@@ -138,4 +149,5 @@ Section: Addons (Flipswitch)
 Description: Toggle for Wi-Fi Calling.
 Name: Wi-Fi Calling Flipswitch
 Author: PoomSmart
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 8.0), gsc.telephony
 
