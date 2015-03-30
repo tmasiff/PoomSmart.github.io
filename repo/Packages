@@ -1,3 +1,30 @@
+Package: com.ps.3gunrestrictorflipswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 892
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: .///debs/com.ps.3gunrestrictorflipswitch_0.0.1-1_iphoneos-arm.deb
+Size: 834512
+MD5sum: 931002acf201eaa2018bd5cefca7cdb6
+Section: Addons (Flipswitch)
+Description: Flipswitch for 3G Unrestrictor.
+Name: 3G Unrestrictor Flipswitch
+Author: PoomSmart
+
+Package: com.ps.buddylock
+Version: 1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: .///debs/com.ps.buddylock_1.0-1_iphoneos-arm.deb
+Size: 4078
+MD5sum: badc0e1f1ca2d07126dc62f0bf86fd5c
+Section: Tweaks
+Description: Hello at lockscreen!
+Name: BuddyLock
+Author: PoomSmart
+
 Package: com.ps.cammodelist
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -11,6 +38,20 @@ Description: List available camera modes instead of scrolling.
 Name: CamModeList
 Author: PoomSmart
 
+Package: com.ps.campad
+Version: 1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 72
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Conflicts: gsc.ipad
+Filename: .///debs/com.ps.campad_1.0-1_iphoneos-arm.deb
+Size: 6768
+MD5sum: cc9954a9d4ab6eed3925456da10cdd9f
+Description: iPad camera UI, for iPhone/iPod. iOS 7+.
+Name: CamPad
+Author: PoomSmart
+
 Package: com.ps.mylapse
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -22,5 +63,60 @@ MD5sum: 9456b19e08e96b6664aac0c5e39bba4e
 Section: Tweaks
 Description: Time-lapse extender.
 Name: MyLapse
+Author: PoomSmart
+
+Package: com.ps.sixtyfps7
+Version: 0.0.1
+Architecture: iphoneos-arm
+Installed-Size: 16
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 8.0), gsc.still-camera
+Filename: .///debs/com.ps.sixtyfps7_0.0.1_iphoneos-arm.deb
+Size: 3310
+MD5sum: f583b57a688d3680a154fde6dafe85c8
+Section: Tweaks
+Description: 60 fps capture support for camera!
+Name: 60fps7
+Author: PoomSmart
+
+Package: com.ps.slicesflipswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1776
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: .///debs/com.ps.slicesflipswitch_0.0.1-1_iphoneos-arm.deb
+Size: 1719330
+MD5sum: 8e3e2b7a03f6fd28cb172eefed3fa362
+Section: Addons (Flipswitch)
+Description: Flipswitch for Slices.
+Name: Slices Flipswitch
+Author: PoomSmart
+
+Package: com.ps.smarttapflipswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1768
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
+Filename: .///debs/com.ps.smarttapflipswitch_0.0.1-1_iphoneos-arm.deb
+Size: 1720488
+MD5sum: 35a21a37b84e90034068384e14885f71
+Section: Addons (Flipswitch)
+Description: Flipswitch for SmartTap.
+Name: SmartTap Flipswitch
+Author: PoomSmart
+
+Package: com.ps.wificallingfs
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 8.0), gsc.telephony
+Filename: .///debs/com.ps.wificallingfs_0.0.1-1_iphoneos-arm.deb
+Size: 8418
+MD5sum: b3da4c4f083fb279e26efeede3193566
+Section: Addons (Flipswitch)
+Description: Toggle for Wi-Fi Calling.
+Name: Wi-Fi Calling Flipswitch
 Author: PoomSmart
 
