@@ -18,12 +18,13 @@ Architecture: iphoneos-arm
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 7.0)
 Filename: .///debs/com.ps.buddylock_1.0-1_iphoneos-arm.deb
-Size: 4078
-MD5sum: badc0e1f1ca2d07126dc62f0bf86fd5c
+Size: 4114
+MD5sum: 8e65f84ecc3a5c35d243aea891416d06
 Section: Tweaks
 Description: Hello at lockscreen!
 Name: BuddyLock
 Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/buddylock/index.html
 
 Package: com.ps.cammodelist
 Version: 0.0.1
@@ -31,12 +32,13 @@ Architecture: iphoneos-arm
 Installed-Size: 256
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Filename: .///debs/com.ps.cammodelist_0.0.1_iphoneos-arm.deb
-Size: 75470
-MD5sum: 462aa2ceeac03cc7d9ea132545df5cb3
+Size: 75504
+MD5sum: 93f7928116a7332c19877a768878695a
 Section: Tweaks
 Description: List available camera modes instead of scrolling.
 Name: CamModeList
 Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/cammodelist/index.html
 
 Package: com.ps.campad
 Version: 1.0-1
@@ -46,10 +48,25 @@ Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate
 Conflicts: gsc.ipad
 Filename: .///debs/com.ps.campad_1.0-1_iphoneos-arm.deb
-Size: 6768
-MD5sum: cc9954a9d4ab6eed3925456da10cdd9f
+Size: 6808
+MD5sum: 75f77526a2a0e54fdf24b71032d282e4
 Description: iPad camera UI, for iPhone/iPod. iOS 7+.
 Name: CamPad
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/campad/index.html
+
+Package: com.ps.flexibleflipswitch
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1792
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.shmoopillc.flexible
+Filename: .///debs/com.ps.flexibleflipswitch_0.0.1-1_iphoneos-arm.deb
+Size: 1667314
+MD5sum: 00ce99c179dc12fcdbf1ac0079feff70
+Section: Addons (Flipswitch)
+Description: Flipswitch for FLEXible.
+Name: FLEXible Flipswitch
 Author: PoomSmart
 
 Package: com.ps.mylapse
@@ -58,12 +75,13 @@ Architecture: iphoneos-arm
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: .///debs/com.ps.mylapse_1.0-1_iphoneos-arm.deb
-Size: 5752
-MD5sum: 9456b19e08e96b6664aac0c5e39bba4e
+Size: 5788
+MD5sum: d3c9920dd51b73bf5dc58499e7b7f404
 Section: Tweaks
 Description: Time-lapse extender.
 Name: MyLapse
 Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
 
 Package: com.ps.sixtyfps7
 Version: 0.0.1
@@ -71,12 +89,13 @@ Architecture: iphoneos-arm
 Installed-Size: 16
 Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 8.0), gsc.still-camera
 Filename: .///debs/com.ps.sixtyfps7_0.0.1_iphoneos-arm.deb
-Size: 3310
-MD5sum: f583b57a688d3680a154fde6dafe85c8
+Size: 3342
+MD5sum: 5801913af5cb31b443be043f7beabcba
 Section: Tweaks
 Description: 60 fps capture support for camera!
 Name: 60fps7
 Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/sixtyfps7/index.html
 
 Package: com.ps.slicesflipswitch
 Version: 0.0.1-1
