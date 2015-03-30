@@ -1,0 +1,11 @@
+Package: com.ps.mylapse
+Version: 1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: .///debs/com.ps.mylapse_1.0-1_iphoneos-arm.deb
+Size: 5752
+MD5sum: 9456b19e08e96b6664aac0c5e39bba4e
+Section: Tweaks
+Description: Time-lapse extender.
+
