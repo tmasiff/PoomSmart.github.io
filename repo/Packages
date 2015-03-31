@@ -88,13 +88,13 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
 
 Package: com.ps.exkeyboard
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: .///debs/com.ps.exkeyboard_1.0-2_iphoneos-arm.deb
-Size: 8390
-MD5sum: 7a59bad52b4d7588c87e144ae5a971da
+Installed-Size: 140
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: .///debs/com.ps.exkeyboard_1.0-3_iphoneos-arm.deb
+Size: 12420
+MD5sum: 2552f78977d44e3440c7b738f28575ff
 Section: Tweaks
 Description: 3rd-party keyboard anywhere.
 Name: exKeyboard
