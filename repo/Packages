@@ -47,11 +47,11 @@ Maintainer: PoomSmart
 Installed-Size: 1844
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, gsc.telephony
 Filename: .///debs/com.ps.calleridfs_0.0.1-1_iphoneos-arm.deb
-Size: 1668374
-MD5sum: 594b36afbd637f8944423873e8a28a00
+Size: 1668372
+MD5sum: 1d6de18e86a0500b5e347c918766b323
 Section: Addons (Flipswitch)
 Description: Toggle for Caller ID.
-Name: Caller ID Flipswitch [Beta]
+Name: Caller ID Flipswitch (Beta)
 Author: PoomSmart
 
 Package: com.ps.cammodelist
