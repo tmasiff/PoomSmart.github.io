@@ -40,6 +40,20 @@ Name: BuddyLock
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/buddylock/index.html
 
+Package: com.ps.calleridfs
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 1844
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, gsc.telephony
+Filename: .///debs/com.ps.calleridfs_0.0.1-1_iphoneos-arm.deb
+Size: 1668380
+MD5sum: 25cefc5051c795b41da170b4b6307e25
+Section: Addons (Flipswitch)
+Description: Toggle for Caller ID.
+Name: Caller ID Flipswitch [Beta]
+Author: PoomSmart
+
 Package: com.ps.cammodelist
 Version: 0.0.1
 Architecture: iphoneos-arm
