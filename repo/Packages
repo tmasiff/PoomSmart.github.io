@@ -144,19 +144,21 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
 
 Package: com.ps.nokeypop
-Version: 1.0-2
+Version: 1.0-4
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: .///debs/com.ps.nokeypop_1.0-2_iphoneos-arm.deb
-Size: 4082
-MD5sum: 94523ca5deb0823a541c08d8eed48e35
+Installed-Size: 92
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
+Replaces: org.thebigboss.nokeypop
+Filename: .///debs/com.ps.nokeypop_1.0-4_iphoneos-arm.deb
+Size: 8138
+MD5sum: 39f3b59a3b0c4f49346a24fe7f57611d
 Section: Tweaks
-Description: Remove popup above keyboard letters.
+Description: Remove popup above keyboard characters.
 Name: NoKeyPop
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/nokeypop/index.html
+Replaces: org.thebigboss.nokeypop
 
 Package: com.ps.sixtyfps7
 Version: 0.0.1
