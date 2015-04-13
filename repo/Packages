@@ -166,8 +166,8 @@ Architecture: iphoneos-arm
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 7.0), gsc.still-camera
 Filename: .///debs/com.ps.sixtyfps_0.0.1_iphoneos-arm.deb
-Size: 5856
-MD5sum: be34eefb5e5b12e8c75997cb4a56308f
+Size: 5906
+MD5sum: 611ecd49f78d81d7c0350915e97948f2
 Section: Tweaks
 Description: 60 fps capture support for camera!
 Name: 60fps
