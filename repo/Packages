@@ -160,6 +160,21 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/nokeypop/index.html
 Replaces: org.thebigboss.nokeypop
 
+Package: com.ps.reachfix
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 60
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
+Filename: .///debs/com.ps.reachfix_1.0-1_iphoneos-arm.deb
+Size: 4400
+MD5sum: 07ffb617b57da6229ad4a02d8f395be4
+Section: Tweaks
+Description: Reachability compatibility fix for iPod 5.
+Name: ReachFix
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/reachfix/index.html
+
 Package: com.ps.sixtyfps
 Version: 0.0.1
 Architecture: iphoneos-arm
