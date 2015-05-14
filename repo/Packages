@@ -101,19 +101,19 @@ Name: DictationPasscode
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
 
-Package: com.ps.exkeyboard
-Version: 1.0-5
+Package: com.ps.emoji83
+Version: 1.0-51
 Architecture: iphoneos-arm
-Installed-Size: 140
-Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
-Filename: .///debs/com.ps.exkeyboard_1.0-5_iphoneos-arm.deb
-Size: 13060
-MD5sum: e377dc94f95e23042ad69a1c83fd845f
+Maintainer: PoomSmart
+Installed-Size: 492
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: .///debs/com.ps.emoji83_1.0-51_iphoneos-arm.deb
+Size: 108488
+MD5sum: 56fa4a840b342391f51b5234cb7006aa
 Section: Tweaks
-Description: 3rd-party keyboard anywhere.
-Name: exKeyboard
+Description: 8.3 Emoji for everyone.
+Name: Emoji83 [BETA]
 Author: PoomSmart
-Depiction: http://PoomSmart.github.io/repo/exkeyboard/index.html
 
 Package: com.ps.flexibleflipswitch
 Version: 0.0.1-2
@@ -142,23 +142,6 @@ Description: Time-lapse extender.
 Name: MyLapse
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
-
-Package: com.ps.nokeypop
-Version: 1.0-9
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 92
-Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
-Replaces: org.thebigboss.nokeypop
-Filename: .///debs/com.ps.nokeypop_1.0-9_iphoneos-arm.deb
-Size: 12846
-MD5sum: 18e8ac57cdde27345da20cb667ed8c3a
-Section: Tweaks
-Description: Remove popup above keyboard characters.
-Name: NoKeyPop
-Author: PoomSmart
-Depiction: http://PoomSmart.github.io/repo/nokeypop/index.html
-Replaces: org.thebigboss.nokeypop
 
 Package: com.ps.reachfix
 Version: 1.0-1
@@ -216,6 +199,23 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for SmartTap.
 Name: SmartTap Flipswitch
 Author: PoomSmart
+
+Package: com.ps.swipekey
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 92
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
+Replaces: org.thebigboss.swipekey
+Filename: .///debs/com.ps.swipekey_1.0-1_iphoneos-arm.deb
+Size: 7422
+MD5sum: 41bfd481218e36b6a71f8539f2adc557
+Section: Tweaks
+Description: Swipe across keyboard for continuous typing!
+Name: SwipeKey [Beta]
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/swipekey/index.html
+Replaces: org.thebigboss.swipekey
 
 Package: com.ps.wificallingfs
 Version: 0.0.1-1
