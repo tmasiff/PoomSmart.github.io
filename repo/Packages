@@ -144,14 +144,14 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
 
 Package: com.ps.reachfix
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: PoomSmart
 Installed-Size: 60
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
-Filename: .///debs/com.ps.reachfix_1.0-1_iphoneos-arm.deb
-Size: 4400
-MD5sum: 07ffb617b57da6229ad4a02d8f395be4
+Filename: .///debs/com.ps.reachfix_1.0-2_iphoneos-arm.deb
+Size: 4370
+MD5sum: ae3b28c3b8630b1355ed261e66ce9496
 Section: Tweaks
 Description: Reachability compatibility fix for iPod 5.
 Name: ReachFix
