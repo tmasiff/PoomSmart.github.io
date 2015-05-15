@@ -201,15 +201,15 @@ Name: SmartTap Flipswitch
 Author: PoomSmart
 
 Package: com.ps.swipekey
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 92
 Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
 Replaces: org.thebigboss.swipekey
-Filename: .///debs/com.ps.swipekey_1.0-1_iphoneos-arm.deb
-Size: 7422
-MD5sum: 41bfd481218e36b6a71f8539f2adc557
+Filename: .///debs/com.ps.swipekey_1.0-2_iphoneos-arm.deb
+Size: 7632
+MD5sum: 5de0895b1023aa0625515fa4ed7c0d1c
 Section: Tweaks
 Description: Swipe across keyboard for continuous typing!
 Name: SwipeKey [Beta]
