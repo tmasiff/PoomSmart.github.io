@@ -231,3 +231,19 @@ Description: Toggle for Wi-Fi Calling.
 Name: Wi-Fi Calling Flipswitch
 Author: PoomSmart
 
+Package: org.thebigboss.cfprefsdfix
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: firmware (>= 8.0), mobilesubstrate
+Replaces: com.ps.cfprefsdfix
+Filename: .///debs/org.thebigboss.cfprefsdfix_1.0-1_iphoneos-arm.deb
+Size: 4902
+MD5sum: 795dee0e08386a29151a5f39e993baa5
+Section: Tweaks
+Description: Restore older better preferences saving method.
+Name: cfprefsd Fix
+Author: PoomSmart
+Replaces: com.ps.cfprefsdfix
+
