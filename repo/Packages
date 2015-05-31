@@ -214,6 +214,23 @@ Description: Flipswitch for SmartTap.
 Name: SmartTap Flipswitch
 Author: PoomSmart
 
+Package: com.ps.smoothkb
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 7.0)
+Conflicts: org.thebigboss.smoothpop
+Filename: .///debs/com.ps.smoothkb_1.0-1_iphoneos-arm.deb
+Size: 3772
+MD5sum: 7d3115663e69a705b9a20619278c076d
+Section: Tweaks
+Description: Fade animation across keyboard typing.
+Name: SmoothKB
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/smoothkb/index.html
+Conflicts: org.thebigboss.smoothpop
+
 Package: com.ps.swipekey
 Version: 1.0-2
 Architecture: iphoneos-arm
