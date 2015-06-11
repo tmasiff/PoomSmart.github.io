@@ -102,14 +102,14 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
 
 Package: com.ps.emoji83
-Version: 1.0-51
+Version: 1.0-52
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 492
+Installed-Size: 508
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: .///debs/com.ps.emoji83_1.0-51_iphoneos-arm.deb
-Size: 108488
-MD5sum: 56fa4a840b342391f51b5234cb7006aa
+Filename: .///debs/com.ps.emoji83_1.0-52_iphoneos-arm.deb
+Size: 110748
+MD5sum: ad5488404d635af73360de41b2fe4aa8
 Section: Tweaks
 Description: 8.3 Emoji for everyone.
 Name: Emoji83 [BETA]
