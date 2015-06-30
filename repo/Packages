@@ -9,6 +9,8 @@ Size: 834512
 MD5sum: 931002acf201eaa2018bd5cefca7cdb6
 Section: Addons (Flipswitch)
 Description: Flipswitch for 3G Unrestrictor.
+Name: 3G Unrestrictor Flipswitch
+Author: PoomSmart
 
 Package: com.ps.anywherepredict
 Version: 1.0-1
@@ -20,6 +22,9 @@ Size: 3840
 MD5sum: aec1dc73dfc8c81a24b1ea2e16be3d9c
 Section: Tweaks
 Description: Predictive keyboard anywhere.
+Name: AnywherePredict
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/anywherepredict/index.html
 
 Package: com.ps.buddylock
 Version: 1.0-1
@@ -31,6 +36,9 @@ Size: 4114
 MD5sum: 8e65f84ecc3a5c35d243aea891416d06
 Section: Tweaks
 Description: Hello at lockscreen!
+Name: BuddyLock
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/buddylock/index.html
 
 Package: com.ps.calleridfs
 Version: 0.0.1-1
@@ -43,6 +51,8 @@ Size: 1668368
 MD5sum: 80d547fcd042f5980266068861f1c06a
 Section: Addons (Flipswitch)
 Description: Toggle for Caller ID.
+Name: Caller ID Flipswitch
+Author: PoomSmart
 
 Package: com.ps.cammodelist
 Version: 0.0.1
@@ -54,6 +64,9 @@ Size: 75504
 MD5sum: 93f7928116a7332c19877a768878695a
 Section: Tweaks
 Description: List available camera modes instead of scrolling.
+Name: CamModeList
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/cammodelist/index.html
 
 Package: com.ps.campad
 Version: 1.0-1
@@ -67,6 +80,9 @@ Size: 6818
 MD5sum: 08ae4a6d7ed4b97e6f25e7fa096c16c5
 Section: Tweaks
 Description: iPad camera UI, for iPhone/iPod. iOS 7+.
+Name: CamPad
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/campad/index.html
 
 Package: com.ps.dictationpasscode
 Version: 1.0-1
@@ -79,6 +95,9 @@ Size: 11486
 MD5sum: 3bfc8edbab522b468ada3edf0f7932ff
 Section: Tweaks
 Description: Force enable Dictation when typing passcode.
+Name: DictationPasscode
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
 
 Package: com.ps.emoji83
 Version: 1.0-55
@@ -91,6 +110,8 @@ Size: 128734
 MD5sum: a431b022e644ee51980042d989a12dd2
 Section: Tweaks
 Description: 8.3 Emoji for everyone.
+Name: Emoji83 [BETA]
+Author: PoomSmart
 
 Package: com.ps.emojilayout
 Version: 1.0-20
@@ -103,6 +124,8 @@ Size: 18692
 MD5sum: fdf2725100ba4abe3d1cfd76cf3bc1f1
 Section: Tweaks
 Description: [Beta]
+Name: EmojiLayout
+Author: PoomSmart
 
 Package: com.ps.flexibleflipswitch
 Version: 0.0.1-2
@@ -115,6 +138,8 @@ Size: 1667714
 MD5sum: 89a05612a104af62e04d5fb391d19cc8
 Section: Addons (Flipswitch)
 Description: Flipswitch for FLEXible.
+Name: FLEXible Flipswitch
+Author: PoomSmart
 
 Package: com.ps.mylapse
 Version: 1.0-1
@@ -126,6 +151,9 @@ Size: 5788
 MD5sum: d3c9920dd51b73bf5dc58499e7b7f404
 Section: Tweaks
 Description: Time-lapse extender.
+Name: MyLapse
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
 
 Package: com.ps.reachfix
 Version: 1.0-2
@@ -138,6 +166,9 @@ Size: 4370
 MD5sum: ae3b28c3b8630b1355ed261e66ce9496
 Section: Tweaks
 Description: Reachability compatibility fix for iPod 5.
+Name: ReachFix
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/reachfix/index.html
 
 Package: com.ps.sixtyfps
 Version: 0.0.1
@@ -149,6 +180,9 @@ Size: 5906
 MD5sum: 611ecd49f78d81d7c0350915e97948f2
 Section: Tweaks
 Description: 60 fps capture support for camera!
+Name: 60fps
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/60fps/index.html
 
 Package: com.ps.slicesflipswitch
 Version: 0.0.1-1
@@ -161,6 +195,8 @@ Size: 1719330
 MD5sum: 8e3e2b7a03f6fd28cb172eefed3fa362
 Section: Addons (Flipswitch)
 Description: Flipswitch for Slices.
+Name: Slices Flipswitch
+Author: PoomSmart
 
 Package: com.ps.smarttapflipswitch
 Version: 0.0.1-1
@@ -173,6 +209,8 @@ Size: 1720488
 MD5sum: 35a21a37b84e90034068384e14885f71
 Section: Addons (Flipswitch)
 Description: Flipswitch for SmartTap.
+Name: SmartTap Flipswitch
+Author: PoomSmart
 
 Package: com.ps.smoothkb
 Version: 1.0-1
@@ -186,6 +224,9 @@ Size: 3772
 MD5sum: 7d3115663e69a705b9a20619278c076d
 Section: Tweaks
 Description: Fade animation across keyboard typing.
+Name: SmoothKB
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/smoothkb/index.html
 
 Package: com.ps.swipekey
 Version: 1.0-2
@@ -199,6 +240,9 @@ Size: 7632
 MD5sum: 5de0895b1023aa0625515fa4ed7c0d1c
 Section: Tweaks
 Description: Swipe across keyboard for continuous typing!
+Name: SwipeKey [Beta]
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/swipekey/index.html
 
 Package: com.ps.wificallingfs
 Version: 0.0.1-1
@@ -211,6 +255,8 @@ Size: 8418
 MD5sum: b3da4c4f083fb279e26efeede3193566
 Section: Addons (Flipswitch)
 Description: Toggle for Wi-Fi Calling.
+Name: Wi-Fi Calling Flipswitch
+Author: PoomSmart
 
 Package: org.thebigboss.cfprefsdfix
 Version: 1.0-1
@@ -224,4 +270,6 @@ Size: 4902
 MD5sum: 795dee0e08386a29151a5f39e993baa5
 Section: Tweaks
 Description: Restore older better preferences saving method.
+Name: cfprefsd Fix
+Author: PoomSmart
 
