@@ -128,14 +128,14 @@ Name: EmojiLayout
 Author: PoomSmart
 
 Package: com.ps.flexibleflipswitch
-Version: 0.0.1-2
+Version: 0.0.1-4
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 1792
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.shmoopillc.flexible
-Filename: .///debs/com.ps.flexibleflipswitch_0.0.1-2_iphoneos-arm.deb
-Size: 1667714
-MD5sum: 89a05612a104af62e04d5fb391d19cc8
+Filename: .///debs/com.ps.flexibleflipswitch_0.0.1-4_iphoneos-arm.deb
+Size: 1667960
+MD5sum: 845b196331351098a20d516f1fead896
 Section: Addons (Flipswitch)
 Description: Flipswitch for FLEXible.
 Name: FLEXible Flipswitch
