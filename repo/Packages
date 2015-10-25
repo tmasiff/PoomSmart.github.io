@@ -15,6 +15,7 @@ Package: com.ps.anywherepredict
 Version: 1.0-3
 Architecture: iphoneos-arm
 Installed-Size: 136
+Depiction: http://PoomSmart.github.io/repo/anywherepredict/index.html
 Name: AnywherePredict
 Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: .///debs/com.ps.anywherepredict_1.0-3_iphoneos-arm.deb
@@ -27,6 +28,7 @@ Package: com.ps.buddylock
 Version: 1.0-1
 Architecture: iphoneos-arm
 Installed-Size: 72
+Depiction: http://PoomSmart.github.io/repo/buddylock/index.html
 Name: BuddyLock
 Depends: mobilesubstrate, firmware (>= 7.0)
 Filename: .///debs/com.ps.buddylock_1.0-1_iphoneos-arm.deb
@@ -52,6 +54,7 @@ Package: com.ps.cammodelist
 Version: 0.0.1
 Architecture: iphoneos-arm
 Installed-Size: 256
+Depiction: http://PoomSmart.github.io/repo/cammodelist/index.html
 Name: CamModeList
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Filename: .///debs/com.ps.cammodelist_0.0.1_iphoneos-arm.deb
@@ -64,6 +67,7 @@ Package: com.ps.campad
 Version: 1.0-1
 Architecture: iphoneos-arm
 Installed-Size: 72
+Depiction: http://PoomSmart.github.io/repo/campad/index.html
 Name: CamPad
 Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate
@@ -79,6 +83,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 88
+Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
 Name: DictationPasscode
 Depends: mobilesubstrate, firmware (>= 5.0), gsc.dictation
 Filename: .///debs/com.ps.dictationpasscode_1.0-1_iphoneos-arm.deb
@@ -130,6 +135,7 @@ Package: com.ps.mylapse
 Version: 1.0-1
 Architecture: iphoneos-arm
 Installed-Size: 136
+Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
 Name: MyLapse
 Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: .///debs/com.ps.mylapse_1.0-1_iphoneos-arm.deb
@@ -143,6 +149,7 @@ Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 60
+Depiction: http://PoomSmart.github.io/repo/reachfix/index.html
 Name: ReachFix
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
 Filename: .///debs/com.ps.reachfix_1.0-2_iphoneos-arm.deb
@@ -155,6 +162,7 @@ Package: com.ps.sixtyfps
 Version: 0.0.2
 Architecture: iphoneos-arm
 Installed-Size: 200
+Depiction: http://PoomSmart.github.io/repo/60fps/index.html
 Name: 60fps
 Depends: mobilesubstrate, firmware (>= 7.0), gsc.still-camera
 Filename: .///debs/com.ps.sixtyfps_0.0.2_iphoneos-arm.deb
@@ -194,6 +202,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 88
+Depiction: http://PoomSmart.github.io/repo/smoothkb/index.html
 Name: SmoothKB
 Depends: mobilesubstrate, firmware (>= 7.0)
 Conflicts: org.thebigboss.smoothpop
@@ -208,6 +217,7 @@ Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 92
+Depiction: http://PoomSmart.github.io/repo/swipekey/index.html
 Name: SwipeKey [Beta]
 Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
 Replaces: org.thebigboss.swipekey
