@@ -274,16 +274,16 @@ Section: Tweaks
 Description: Restore older better preferences saving method.
 
 Package: org.thebigboss.emoji83plus
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 152
+Installed-Size: 216
 Name: Emoji83+
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 8.3)
-Filename: .///debs/org.thebigboss.emoji83plus_1.0-3_iphoneos-arm.deb
-Size: 11180
-MD5sum: 7f0ec7dc1076f491b7f7ea35a9ad958a
+Filename: .///debs/org.thebigboss.emoji83plus_1.0-4_iphoneos-arm.deb
+Size: 11602
+MD5sum: 15ac60d344ff4bfcd6522fab4db95c2e
 Section: Tweaks
 Description: More emojis.
 
