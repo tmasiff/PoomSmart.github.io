@@ -280,10 +280,10 @@ Maintainer: PoomSmart
 Installed-Size: 152
 Name: Emoji83+
 Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 8.3), firmware (< 9.0)
+Depends: mobilesubstrate, firmware (>= 8.3)
 Filename: .///debs/org.thebigboss.emoji83plus_1.0-3_iphoneos-arm.deb
-Size: 10376
-MD5sum: 21fb68c8fc31fdfb47f306d87c5e3c3e
+Size: 11180
+MD5sum: 7f0ec7dc1076f491b7f7ea35a9ad958a
 Section: Tweaks
-Description: More emoji flags + spock emoji.
+Description: More emojis.
 
