@@ -128,16 +128,16 @@ Section: Tweaks
 Description: [Beta]
 
 Package: com.ps.flexibleflipswitch
-Version: 0.0.1-4
+Version: 0.0.1-5
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 1792
+Installed-Size: 1920
 Name: FLEXible Flipswitch
 Section: Addons (Flipswitch)
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.shmoopillc.flexible
-Filename: .///debs/com.ps.flexibleflipswitch_0.0.1-4_iphoneos-arm.deb
-Size: 1667960
-MD5sum: 845b196331351098a20d516f1fead896
+Filename: .///debs/com.ps.flexibleflipswitch_0.0.1-5_iphoneos-arm.deb
+Size: 487058
+MD5sum: 0dc8f9ff3d00b65856e19b6b83b16c5c
 Section: Addons (Flipswitch)
 Description: Flipswitch for FLEXible.
 
