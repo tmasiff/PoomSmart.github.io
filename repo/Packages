@@ -3,6 +3,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 892
+Name: 3G Unrestrictor Flipswitch
 Depends: mobilesubstrate, com.a3tweaks.flipswitch
 Filename: .///debs/com.ps.3gunrestrictorflipswitch_0.0.1-1_iphoneos-arm.deb
 Size: 834512
@@ -14,7 +15,7 @@ Package: com.ps.anywherepredict
 Version: 1.0-3
 Architecture: iphoneos-arm
 Installed-Size: 136
-Depiction: http://PoomSmart.github.io/repo/anywherepredict/index.html
+Name: AnywherePredict
 Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: .///debs/com.ps.anywherepredict_1.0-3_iphoneos-arm.deb
 Size: 3578
@@ -26,7 +27,7 @@ Package: com.ps.buddylock
 Version: 1.0-1
 Architecture: iphoneos-arm
 Installed-Size: 72
-Depiction: http://PoomSmart.github.io/repo/buddylock/index.html
+Name: BuddyLock
 Depends: mobilesubstrate, firmware (>= 7.0)
 Filename: .///debs/com.ps.buddylock_1.0-1_iphoneos-arm.deb
 Size: 4114
@@ -39,6 +40,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 1844
+Name: Caller ID Flipswitch
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, gsc.telephony
 Filename: .///debs/com.ps.calleridfs_0.0.1-1_iphoneos-arm.deb
 Size: 1668368
@@ -50,7 +52,7 @@ Package: com.ps.cammodelist
 Version: 0.0.1
 Architecture: iphoneos-arm
 Installed-Size: 256
-Depiction: http://PoomSmart.github.io/repo/cammodelist/index.html
+Name: CamModeList
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Filename: .///debs/com.ps.cammodelist_0.0.1_iphoneos-arm.deb
 Size: 75504
@@ -62,7 +64,7 @@ Package: com.ps.campad
 Version: 1.0-1
 Architecture: iphoneos-arm
 Installed-Size: 72
-Depiction: http://PoomSmart.github.io/repo/campad/index.html
+Name: CamPad
 Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate
 Conflicts: gsc.ipad
@@ -77,7 +79,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 88
-Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
+Name: DictationPasscode
 Depends: mobilesubstrate, firmware (>= 5.0), gsc.dictation
 Filename: .///debs/com.ps.dictationpasscode_1.0-1_iphoneos-arm.deb
 Size: 11486
@@ -90,6 +92,7 @@ Version: 1.0-56
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 536
+Name: Emoji83 [BETA]
 Depends: mobilesubstrate, firmware (>= 6.0)
 Filename: .///debs/com.ps.emoji83_1.0-56_iphoneos-arm.deb
 Size: 121644
@@ -102,6 +105,7 @@ Version: 1.0-20
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 120
+Name: EmojiLayout
 Depends: mobilesubstrate, firmware (>= 6.0)
 Filename: .///debs/com.ps.emojilayout_1.0-20_iphoneos-arm.deb
 Size: 18692
@@ -114,6 +118,7 @@ Version: 0.0.1-4
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 1792
+Name: FLEXible Flipswitch
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.shmoopillc.flexible
 Filename: .///debs/com.ps.flexibleflipswitch_0.0.1-4_iphoneos-arm.deb
 Size: 1667960
@@ -125,7 +130,7 @@ Package: com.ps.mylapse
 Version: 1.0-1
 Architecture: iphoneos-arm
 Installed-Size: 136
-Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
+Name: MyLapse
 Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: .///debs/com.ps.mylapse_1.0-1_iphoneos-arm.deb
 Size: 5788
@@ -138,7 +143,7 @@ Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 60
-Depiction: http://PoomSmart.github.io/repo/reachfix/index.html
+Name: ReachFix
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5101)
 Filename: .///debs/com.ps.reachfix_1.0-2_iphoneos-arm.deb
 Size: 4370
@@ -150,7 +155,7 @@ Package: com.ps.sixtyfps
 Version: 0.0.2
 Architecture: iphoneos-arm
 Installed-Size: 200
-Depiction: http://PoomSmart.github.io/repo/60fps/index.html
+Name: 60fps
 Depends: mobilesubstrate, firmware (>= 7.0), gsc.still-camera
 Filename: .///debs/com.ps.sixtyfps_0.0.2_iphoneos-arm.deb
 Size: 4488
@@ -163,6 +168,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 1776
+Name: Slices Flipswitch
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
 Filename: .///debs/com.ps.slicesflipswitch_0.0.1-1_iphoneos-arm.deb
 Size: 1719330
@@ -175,6 +181,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 1768
+Name: SmartTap Flipswitch
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 7.0)
 Filename: .///debs/com.ps.smarttapflipswitch_0.0.1-1_iphoneos-arm.deb
 Size: 1720488
@@ -187,7 +194,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 88
-Depiction: http://PoomSmart.github.io/repo/smoothkb/index.html
+Name: SmoothKB
 Depends: mobilesubstrate, firmware (>= 7.0)
 Conflicts: org.thebigboss.smoothpop
 Filename: .///debs/com.ps.smoothkb_1.0-1_iphoneos-arm.deb
@@ -201,7 +208,7 @@ Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 92
-Depiction: http://PoomSmart.github.io/repo/swipekey/index.html
+Name: SwipeKey [Beta]
 Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0)
 Replaces: org.thebigboss.swipekey
 Filename: .///debs/com.ps.swipekey_1.0-2_iphoneos-arm.deb
@@ -215,6 +222,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 200
+Name: Wi-Fi Calling Flipswitch
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 8.0), gsc.telephony
 Filename: .///debs/com.ps.wificallingfs_0.0.1-1_iphoneos-arm.deb
 Size: 8418
@@ -227,6 +235,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 200
+Name: cfprefsd Fix
 Depends: firmware (>= 8.0), mobilesubstrate
 Replaces: com.ps.cfprefsdfix
 Filename: .///debs/org.thebigboss.cfprefsdfix_1.0-1_iphoneos-arm.deb
@@ -240,6 +249,7 @@ Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 152
+Name: Emoji83+
 Depends: mobilesubstrate, firmware (>= 8.3), firmware (< 9.0)
 Filename: .///debs/org.thebigboss.emoji83plus_1.0-3_iphoneos-arm.deb
 Size: 10376
