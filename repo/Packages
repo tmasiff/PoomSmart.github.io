@@ -141,6 +141,20 @@ MD5sum: 111501dbc44d014d66cc99a969941833
 Section: Addons (Flipswitch)
 Description: Flipswitch for FLEXible.
 
+Package: com.ps.frontflashios9test
+Version: 1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 132
+Name: FrontFlash iOS 9 Test
+Section: Tweaks
+Depends: mobilesubstrate, gsc.front-facing-camera, firmware (>= 9.0)
+Conflicts: org.thebigboss.frontflash
+Filename: .///debs/com.ps.frontflashios9test_1.0-1_iphoneos-arm.deb
+Size: 3328
+MD5sum: e577777c3636b00962353e03b476debc
+Section: Tweaks
+Description: simulate Flash in Front-Facing Camera.
+
 Package: com.ps.mylapse
 Version: 1.0-1
 Architecture: iphoneos-arm
