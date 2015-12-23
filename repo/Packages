@@ -287,17 +287,3 @@ MD5sum: 795dee0e08386a29151a5f39e993baa5
 Section: Tweaks
 Description: Restore older better preferences saving method.
 
-Package: org.thebigboss.emoji83plus
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 252
-Name: Emoji83+ (Beta)
-Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 8.3)
-Filename: .///debs/org.thebigboss.emoji83plus_1.1-2_iphoneos-arm.deb
-Size: 17298
-MD5sum: fdd794d7ada386ba0c9a971e36613583
-Section: Tweaks
-Description: More emojis.
-
