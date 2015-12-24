@@ -113,19 +113,19 @@ MD5sum: 3bfc8edbab522b468ada3edf0f7932ff
 Section: Tweaks
 Description: Force enable Dictation when typing passcode.
 
-Package: com.ps.emoji83
-Version: 1.0-57
+Package: com.ps.emoji9legacy
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 584
-Name: Emoji83 [BETA]
+Installed-Size: 812
+Name: Emoji9 Legacy [BETA]
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 6.0), firmware (< 8.3)
-Filename: .///debs/com.ps.emoji83_1.0-57_iphoneos-arm.deb
-Size: 85452
-MD5sum: 4e0a2061e7d5d161d6d7676a49f175c3
+Filename: .///debs/com.ps.emoji9legacy_1.0-1_iphoneos-arm.deb
+Size: 97460
+MD5sum: 227f98d728eca252d037959860124f5e
 Section: Tweaks
-Description: 8.3 Emoji for everyone.
+Description: iOS 9.1 Emoji for iOS < 8.3 users.
 
 Package: com.ps.emojilayout
 Version: 1.0-20
