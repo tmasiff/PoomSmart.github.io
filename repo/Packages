@@ -113,6 +113,20 @@ MD5sum: 3bfc8edbab522b468ada3edf0f7932ff
 Section: Tweaks
 Description: Force enable Dictation when typing passcode.
 
+Package: com.ps.emoji9fix
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 396
+Name: Emoji9 Fix
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 8.3), firmare (< 9.0)
+Filename: .///debs/com.ps.emoji9fix_1.0-1_iphoneos-arm.deb
+Size: 14140
+MD5sum: 269cf5b831cab0740e65522bf5858cee
+Section: Tweaks
+Description: Emoji9 ported to iOS 8.3/8.4
+
 Package: com.ps.emoji9legacy
 Version: 1.0-1
 Architecture: iphoneos-arm
