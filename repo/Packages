@@ -129,32 +129,32 @@ Section: Tweaks
 Description: Emoji9 ported to iOS 8.3/8.4
 
 Package: com.ps.emoji9legacy
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 812
+Installed-Size: 768
 Name: Emoji9 Legacy [BETA]
 Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 6.0), firmware (< 8.3)
-Filename: .///debs/com.ps.emoji9legacy_1.0-1_iphoneos-arm.deb
-Size: 97460
-MD5sum: 227f98d728eca252d037959860124f5e
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (< 8.3), com.ps.emojilayout
+Filename: .///debs/com.ps.emoji9legacy_1.0-2_iphoneos-arm.deb
+Size: 85852
+MD5sum: 5b37f300ebd25076c0935a1a1eb1a7b8
 Section: Tweaks
 Description: iOS 9.1 Emoji for iOS < 8.3 users.
 
 Package: com.ps.emojilayout
-Version: 1.0-20
+Version: 1.0-21
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 120
+Installed-Size: 168
 Name: EmojiLayout
 Section: Tweaks
-Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: .///debs/com.ps.emojilayout_1.0-20_iphoneos-arm.deb
-Size: 18692
-MD5sum: fdf2725100ba4abe3d1cfd76cf3bc1f1
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (< 8.3)
+Filename: .///debs/com.ps.emojilayout_1.0-21_iphoneos-arm.deb
+Size: 13446
+MD5sum: f9b07dfb5ab07ec34bd952db0c330861
 Section: Tweaks
-Description: [Beta]
+Description: Layout the emoji keyboard.
 
 Package: com.ps.flexibleflipswitch
 Version: 0.0.2-5
