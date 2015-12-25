@@ -170,6 +170,20 @@ MD5sum: 111501dbc44d014d66cc99a969941833
 Section: Addons (Flipswitch)
 Description: Flipswitch for FLEXible.
 
+Package: com.ps.highgraphics
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 56
+Name: HighGraphics
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: .///debs/com.ps.highgraphics_1.0-1_iphoneos-arm.deb
+Size: 2550
+MD5sum: c71d6cd98361a9c968b8da7e7411289c
+Section: Tweaks
+Description: Best UIKit graphics for older devices.
+
 Package: com.ps.mylapse
 Version: 1.0-1
 Architecture: iphoneos-arm
