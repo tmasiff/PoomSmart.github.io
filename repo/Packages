@@ -130,7 +130,7 @@ Section: Tweaks
 Description: Emoji9 ported to iOS 8.3/8.4
 
 Package: com.ps.emoji9legacy
-Version: 1.0-4
+Version: 1.0-5
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 3656
@@ -138,9 +138,9 @@ Depiction: http://PoomSmart.github.io/repo/emoji9legacy/index.html
 Name: Emoji9 Legacy [BETA]
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 7.0), firmware (< 8.3), com.ps.emojilayout
-Filename: .///debs/com.ps.emoji9legacy_1.0-4_iphoneos-arm.deb
-Size: 993022
-MD5sum: 3331ab8d0969b94c825f10d150c13ba4
+Filename: .///debs/com.ps.emoji9legacy_1.0-5_iphoneos-arm.deb
+Size: 993000
+MD5sum: 66e88aa7e7843af001db82c6bfe5bffc
 Section: Tweaks
 Description: iOS 9.1 Emoji for iOS < 8.3 users.
 
