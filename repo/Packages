@@ -114,31 +114,33 @@ Section: Tweaks
 Description: Force enable Dictation when typing passcode.
 
 Package: com.ps.emoji9fix
-Version: 1.0-4
+Version: 1.0-5
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 396
+Installed-Size: 4252
+Depiction: http://PoomSmart.github.io/repo/emoji9fix/index.html
 Name: Emoji9 Fix
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 8.3), firmware (< 9.0)
 Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9
-Filename: .///debs/com.ps.emoji9fix_1.0-4_iphoneos-arm.deb
-Size: 14384
-MD5sum: 0f93f1f907a0fb8c08cb9af916fa9599
+Filename: .///debs/com.ps.emoji9fix_1.0-5_iphoneos-arm.deb
+Size: 925056
+MD5sum: 1cbef5123622c1bf6f0298273a279048
 Section: Tweaks
 Description: Emoji9 ported to iOS 8.3/8.4
 
 Package: com.ps.emoji9legacy
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 764
+Installed-Size: 3656
+Depiction: http://PoomSmart.github.io/repo/emoji9legacy/index.html
 Name: Emoji9 Legacy [BETA]
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 7.0), firmware (< 8.3), com.ps.emojilayout
-Filename: .///debs/com.ps.emoji9legacy_1.0-3_iphoneos-arm.deb
-Size: 85908
-MD5sum: 587c4621272b4237921682d7597c006a
+Filename: .///debs/com.ps.emoji9legacy_1.0-4_iphoneos-arm.deb
+Size: 993022
+MD5sum: 3331ab8d0969b94c825f10d150c13ba4
 Section: Tweaks
 Description: iOS 9.1 Emoji for iOS < 8.3 users.
 
