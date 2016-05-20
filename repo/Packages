@@ -189,7 +189,7 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for FLEXible.
 
 Package: com.ps.fullsafari
-Version: 0.0.1-4
+Version: 0.0.1-5
 Architecture: iphoneos-arm
 Maintainer: bensge
 Installed-Size: 124
@@ -197,9 +197,9 @@ Name: FullSafari (Fix)
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.bensge.fullsafari
-Filename: .///debs/com.ps.fullsafari_0.0.1-4_iphoneos-arm.deb
-Size: 7026
-MD5sum: 38901623aeabe3e666d0c8f1951552c7
+Filename: .///debs/com.ps.fullsafari_0.0.1-5_iphoneos-arm.deb
+Size: 7156
+MD5sum: a07906df606bd1851c54491ff10045f5
 Section: Tweaks
 Description: Enable iPad-like Safari tabs on any device, always.
 
