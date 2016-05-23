@@ -79,15 +79,15 @@ Author: PoomSmart
 Name: Caller ID Flipswitch
 
 Package: com.ps.cammodelist
-Version: 0.0.1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Installed-Size: 256
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: .///debs/com.ps.cammodelist_0.0.1_iphoneos-arm.deb
-Size: 75504
-MD5sum: 93f7928116a7332c19877a768878695a
-SHA1: c891254be61b6ef0a3dbc1be9812a563bc3437be
-SHA256: d58a70f629fbac14e703635361aabd5aacc51365b693b5922be44a9d343e6869
+Filename: .///debs/com.ps.cammodelist_1.0-2_iphoneos-arm.deb
+Size: 57948
+MD5sum: 356c2847b75d841722d3c89536ad0950
+SHA1: abf8ef1302430d39ce8b45fa9d5efc24334d074f
+SHA256: c7c2e4e19f3d2abedb6fcf641fb5042cd3398a419ecb43f22dda821b5bc2bc10
 Section: Tweaks
 Description: List available camera modes instead of scrolling.
 Author: PoomSmart
