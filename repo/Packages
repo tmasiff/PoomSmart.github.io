@@ -298,13 +298,14 @@ Name: MyLapse
 Package: com.ps.proactivesearchenabler
 Version: 1.0-1
 Architecture: iphoneos-arm
+Maintainer: PoomSmart
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: .///debs/com.ps.proactivesearchenabler_1.0-1_iphoneos-arm.deb
-Size: 6140
-MD5sum: e3df2a67ab75d15fa0307cc2fb51aeb5
-SHA1: 2a86753eae145da35030a331cb025a5e0f2ee0de
-SHA256: a0ba7fce0c56b1720079707be704e7ac165fdbbfa2850bdafd72f6e3c1c5024a
+Size: 6146
+MD5sum: 9550ab08f7bc4c4c7881fb6e4091ce79
+SHA1: 8d23e3f0dc27ac046c112c9bf09b8ea128a66044
+SHA256: daff68984e23a7aecef90e57158a2e81852f12a5d8862b65978bf5c95ea97e40
 Section: Tweaks
 Description: For unsupported devices ONLY.
 Author: PoomSmart
