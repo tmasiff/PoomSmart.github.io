@@ -295,6 +295,21 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
 Name: MyLapse
 
+Package: com.ps.proactivesearchenabler
+Version: 1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 120
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate
+Filename: .///debs/com.ps.proactivesearchenabler_1.0-1_iphoneos-arm.deb
+Size: 6136
+MD5sum: 63562be1da7d93218e30b60a989e7882
+SHA1: b63bb32e24472855b7a27bfebc8d8374c50c2b25
+SHA256: f6300b6d8da2df0de57a330176e0b84028dd257e77b21433eb3eec26ca04f1dc
+Description: Spotlight Suggestions for unsupported devices ONLY.
+Author: PoomSmart
+Name: Spotlight Suggestions Enabler (Beta)
+
 Package: com.ps.reachfix
 Version: 1.0-2
 Architecture: iphoneos-arm
