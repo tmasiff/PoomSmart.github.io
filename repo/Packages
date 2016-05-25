@@ -113,16 +113,16 @@ Depiction: http://PoomSmart.github.io/repo/campad/index.html
 Name: CamPad
 
 Package: com.ps.ccscalebt
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 124
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Filename: .///debs/com.ps.ccscalebt_1.0-1_iphoneos-arm.deb
-Size: 4302
-MD5sum: ffc87b69d477bae0789598242b7f33bd
-SHA1: 459c9841607585ce5168ae95ae5dd381278c0e97
-SHA256: a7bf7eb12e5d8cca5f9e0ce07bc03d1deb456e0ab8a83dfc48773f54c3724c61
+Filename: .///debs/com.ps.ccscalebt_1.0-2_iphoneos-arm.deb
+Size: 5064
+MD5sum: bfbfb5d4badf7579155703e27f94c921
+SHA1: ddd88c48cc1d59502e57d0889ab1d40344c64d8a
+SHA256: 50b44dc6405c87d0c517fdc64e70be1db6549f9857549473758b9e55e99bcb27
 Section: Tweaks
 Description: Scale Control Center bottom shelf
 Author: PoomSmart
