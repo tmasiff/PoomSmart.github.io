@@ -299,14 +299,14 @@ Package: com.ps.proactivesearchenabler
 Version: 1.0-1
 Architecture: iphoneos-arm
 Installed-Size: 120
-Pre-Depends: firmware (>= 9.0)
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: .///debs/com.ps.proactivesearchenabler_1.0-1_iphoneos-arm.deb
-Size: 6136
-MD5sum: 63562be1da7d93218e30b60a989e7882
-SHA1: b63bb32e24472855b7a27bfebc8d8374c50c2b25
-SHA256: f6300b6d8da2df0de57a330176e0b84028dd257e77b21433eb3eec26ca04f1dc
-Description: Spotlight Suggestions for unsupported devices ONLY.
+Size: 6140
+MD5sum: e3df2a67ab75d15fa0307cc2fb51aeb5
+SHA1: 2a86753eae145da35030a331cb025a5e0f2ee0de
+SHA256: a0ba7fce0c56b1720079707be704e7ac165fdbbfa2850bdafd72f6e3c1c5024a
+Section: Tweaks
+Description: For unsupported devices ONLY.
 Author: PoomSmart
 Name: Spotlight Suggestions Enabler (Beta)
 
