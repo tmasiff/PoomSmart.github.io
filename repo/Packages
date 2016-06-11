@@ -263,22 +263,6 @@ Description: Best UIKit graphics for older devices.
 Author: PoomSmart
 Name: HighGraphics
 
-Package: com.ps.kbmoremem
-Version: 1.0-2
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 8.0), cc.tweak.libobjcipc, jetslammed
-Filename: .///debs/com.ps.kbmoremem_1.0-2_iphoneos-arm.deb
-Size: 4670
-MD5sum: 7c71190976b3f3162b036a81dd4cf5fe
-SHA1: 5c5ad83b26c1bbe0523f9a4c3b88429d6bab1c24
-SHA256: f6e4b0d04bfb7c7045c7242b1336964235a8beaa2d225551c872cdd7547407c1
-Section: Tweaks
-Description: More memory for 3rd-party keyboards.
-Author: PoomSmart
-Name: KBMoreMem
-
 Package: com.ps.mylapse
 Version: 1.0-1
 Architecture: iphoneos-arm
