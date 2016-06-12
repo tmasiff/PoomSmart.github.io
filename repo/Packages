@@ -429,6 +429,23 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/swipekey/index.html
 Name: SwipeKey [Beta]
 
+Package: com.ps.tapformore
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: firmware (>= 4.0), firmware (<< 8.0), preferenceloader
+Filename: .///debs/com.ps.tapformore_1.0_iphoneos-arm.deb
+Size: 15454
+MD5sum: 3aa4d64b0877ee2b5af76f998f1b3de1
+SHA1: 43225efcc6d402bbf53c7d94766c76b90e23014d
+SHA256: ef6f1e8e674d00be95cf811a81f39a958c08de8f73ea03c228d031fb6135e5dd
+Section: Tweaks
+Description: Manage packages via tap.
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/tapformore/index.html
+Name: TapForMore
+
 Package: com.ps.wificallingfs
 Version: 0.0.1-1
 Architecture: iphoneos-arm
