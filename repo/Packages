@@ -394,6 +394,23 @@ Description: Rename SMS group conversation.
 Author: PoomSmart
 Name: SMSGroupName
 
+Package: com.ps.staticzoom
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (>= 4.0)
+Filename: .///debs/com.ps.staticzoom_0.0.1_iphoneos-arm.deb
+Size: 5298
+MD5sum: 1e5dba8af3569f17f989977e37f7d955
+SHA1: ba4e5f975cb465e3d4aaac11ea1cf8207de9c150
+SHA256: 1087a6e22bda1d2b88ad05eae76bd1e596d5f1df376fd23aa6bf0fcc26763631
+Section: Tweaks
+Description: Always show zoom slider in camera app.
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/staticzoom/index.html
+Name: StaticZoom
+
 Package: com.ps.swipekey
 Version: 1.0-2
 Architecture: iphoneos-arm
