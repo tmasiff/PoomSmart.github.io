@@ -312,6 +312,23 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/reachfix/index.html
 Name: ReachFix
 
+Package: com.ps.roundedtable
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 284
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 7.0)
+Filename: .///debs/com.ps.roundedtable_1.0_iphoneos-arm.deb
+Size: 14194
+MD5sum: 6b508c9b8548e16da8ce9d5d8440295f
+SHA1: 30588630a94b39dd8d77b9c0a47b504004f7da52
+SHA256: 9d409629fdd754a95b2fbd5ecbca15dab70dc20c2c37a43365780da6f79d404d
+Section: Tweaks
+Description: Rounded UITableView.
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/roundedtable/index.html
+Name: RoundedTable
+
 Package: com.ps.sixtyfps
 Version: 0.0.2
 Architecture: iphoneos-arm
