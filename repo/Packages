@@ -296,6 +296,23 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/mylapse/index.html
 Name: MyLapse
 
+Package: com.ps.nojail
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 276
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: net.limneos.palfix
+Filename: .///debs/com.ps.nojail_1.0.0_iphoneos-arm.deb
+Size: 7616
+MD5sum: 3274176ef5066833fdbb76caecec3cc7
+SHA1: a09a00464524606ffc197d516cce372d050d37b9
+SHA256: 20ea3eda6fb6046e1877be31d25b60b9dd2d8b0ce1a73d5e6e8d947e803e2e24
+Section: Tweaks
+Description: Tell apps you're not jailbroken.
+Author: PoomSmart
+Name: NoJail (Testing)
+
 Package: com.ps.proactivesearchenabler
 Version: 1.0-1
 Architecture: iphoneos-arm
