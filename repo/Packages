@@ -113,17 +113,17 @@ Depiction: http://PoomSmart.github.io/repo/campad/index.html
 Name: CamPad
 
 Package: com.ps.camswitchdown
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 172
 Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 10.0)
 Conflicts: gsc.ipad
-Filename: .///debs/com.ps.camswitchdown_1.1_iphoneos-arm.deb
-Size: 15894
-MD5sum: 52dfbc18c572bdc90b86f2137537ff17
-SHA1: 891d89403eaabbf76c47a55596e4c6195f8baf09
-SHA256: a885c2a7e6680dfb911e0960bda76895d0647a5a6cdc7d2f855c586eb0799708
+Filename: .///debs/com.ps.camswitchdown_1.2_iphoneos-arm.deb
+Size: 15818
+MD5sum: 4cd86f808c7b621bc7e9a92491fd0577
+SHA1: 02d1d09cec2ffd12bc2bc3a95a55b8213d505776
+SHA256: b2733f5c66a2309aff6e52e99e84cb13cb7fe99c31568e80fb8ce1880f5d3ba9
 Section: Tweaks
 Description: iOS 10 Flip button <-> Filter button swap.
 Author: PoomSmart
