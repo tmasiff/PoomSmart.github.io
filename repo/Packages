@@ -216,16 +216,16 @@ Depiction: http://PoomSmart.github.io/repo/emoji9ps/index.html
 Name: Emoji9 (PS)
 
 Package: com.ps.emojiattributes8
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: .///debs/com.ps.emojiattributes8_1.0.2_iphoneos-arm.deb
-Size: 6046
-MD5sum: 966b790168b548bbd579977f9b17a88e
-SHA1: 1f12ad37ef2e2dde05aef12ab129654abf64dccd
-SHA256: b93cbdb65bc138391f73d0aa46cc901e6df53d3c687fa707fa9f8f44cc537319
+Filename: .///debs/com.ps.emojiattributes8_1.0.3_iphoneos-arm.deb
+Size: 6154
+MD5sum: 37032257883ac84cc415ea499b14c908
+SHA1: 6e69db2b861307bde4f779e279799ee31bed73fc
+SHA256: 170f4d2afdd5a8b9dcbb09af6c2069b0d86b43fc35bdefd9a6c03fc1eb3730bb
 Section: Tweaks
 Description: Fix Emoji Attributes for iOS 8+
 Author: PoomSmart
