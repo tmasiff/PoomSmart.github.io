@@ -163,36 +163,36 @@ Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
 Name: DictationPasscode
 
 Package: com.ps.emoji9fix
-Version: 1.0-9
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 4252
-Depends: mobilesubstrate, firmware (>= 8.3), firmware (< 9.0)
+Installed-Size: 4104
+Depends: mobilesubstrate, firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes8
 Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9
-Filename: .///debs/com.ps.emoji9fix_1.0-9_iphoneos-arm.deb
-Size: 925742
-MD5sum: 1142dd1aa9e6ab4bb8d3ba8079b4fdbc
-SHA1: 50cf01dfb2c37fa0a3a87fec59ddb93edf5e9838
-SHA256: c46846aafe8e6a4fe673964f65482de0e8179845f979c284dec945afa24e5522
+Filename: .///debs/com.ps.emoji9fix_1.1_iphoneos-arm.deb
+Size: 923096
+MD5sum: 03b5a5bc95a70b08fd9dc62575002630
+SHA1: e852be4ed115e3ac2bdae2d0db486940d0a878c9
+SHA256: 423a9b4a84062cf6f86b45901fff835d1ac8c6e590c70ce6049af4ba3a1a40d1
 Section: Tweaks
-Description: Emoji9 ported to iOS 8.3/8.4
+Description: Latest emojis for iOS 8.3-8.4
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/emoji9fix/index.html
 Name: Emoji9 Fix
 
 Package: com.ps.emoji9legacy
-Version: 1.1-1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 3624
-Depends: mobilesubstrate, firmware (>= 8.0), firmware (<< 8.3), com.ps.emojilayout
-Filename: .///debs/com.ps.emoji9legacy_1.1-1_iphoneos-arm.deb
-Size: 988842
-MD5sum: 6bb5f2458203216f660c6242df004291
-SHA1: e18005f67b136d0fe0dab33560bbdd79a591ced2
-SHA256: 4970c74f68d5db3ca68dfe51bdfa9044532292fdb5552703808edabd04428446
+Installed-Size: 3444
+Depends: mobilesubstrate, firmware (>= 8.0), firmware (<< 8.3), com.ps.emojilayout, com.ps.emojiattributes8
+Filename: .///debs/com.ps.emoji9legacy_1.2_iphoneos-arm.deb
+Size: 973484
+MD5sum: 011d5529b26774da32ff792900084be2
+SHA1: 1e8b933b2789832a457aabc5579e6cb0c3b02764
+SHA256: 270d808f3ad953336c7089945d6401d06b33c7728b6a66dcbe58d385d7d13fac
 Section: Tweaks
-Description: iOS 9.1 Emoji for iOS < 8.3 users.
+Description: Latest emojis for iOS 8.0-8.2
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/emoji9legacy/index.html
 Name: Emoji9 Legacy
@@ -205,10 +205,10 @@ Installed-Size: 2176
 Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 9.1), com.ps.emojiattributes8
 Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9
 Filename: .///debs/com.ps.emoji9ps_1.1_iphoneos-arm.deb
-Size: 920138
-MD5sum: d402ffe82c5ee59be28c20568fef3eef
-SHA1: 158c5e12eb786b96d534f8f12f81815d8309db8d
-SHA256: 117de23755f850c98150ffb93712dd3029e01ebfca472280b5e87240f617e46a
+Size: 919782
+MD5sum: f6aad20b24f22e451cd925aa5e897dc7
+SHA1: 8a12ee531ebe1865787af874aaa46b77b6c8191c
+SHA256: 6e31cd474c12bddee01e4500c6067f38aa2124fee3327d9fc05010b28941f3c7
 Section: Tweaks
 Description: Latest emojis for iOS 9.0
 Author: PoomSmart
