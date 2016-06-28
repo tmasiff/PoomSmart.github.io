@@ -163,17 +163,17 @@ Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
 Name: DictationPasscode
 
 Package: com.ps.emoji9fix
-Version: 1.2.2
+Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 4104
+Installed-Size: 376
 Depends: mobilesubstrate, firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes
 Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9
-Filename: .///debs/com.ps.emoji9fix_1.2.2_iphoneos-arm.deb
-Size: 924278
-MD5sum: 92066aa0b70f6505169209c0b33aed6a
-SHA1: 97157a097fc513ba9c4bb4915632d39c429cef9a
-SHA256: b8011f9fd10889cafef1c3f3ba9df0c568c415e8620f6dfc174c1ab7c42d51ff
+Filename: .///debs/com.ps.emoji9fix_1.2.3_iphoneos-arm.deb
+Size: 29982
+MD5sum: ab16926e331c7603fd85dfc4dc4ce55f
+SHA1: 4fee889ce810b220ebfe83a1f201e55c660748f8
+SHA256: 9a2f644e082facaf471a77f23cb4376fb6e8d1a8b9832dc8428674912adf7f9e
 Section: Tweaks
 Description: Latest emojis for iOS 8.3-8.4
 Author: PoomSmart
