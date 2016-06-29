@@ -265,23 +265,6 @@ Description: Flipswitch for FLEXible.
 Author: PoomSmart
 Name: FLEXible Flipswitch
 
-Package: com.ps.fullsafari
-Version: 0.0.1-6
-Architecture: iphoneos-arm
-Maintainer: bensge
-Installed-Size: 124
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.bensge.fullsafari
-Filename: .///debs/com.ps.fullsafari_0.0.1-6_iphoneos-arm.deb
-Size: 7402
-MD5sum: 2d788c42952d449df56c78551e51141a
-SHA1: 01c43f6da6872551cfb731e2ba652e056ee0306a
-SHA256: b07a0b3bb3fa7a3c6f83f42cd6f7cada8caa0a2cc8f1770438bfeefa40970619
-Section: Tweaks
-Description: Enable iPad-like Safari tabs on any device, always.
-Author: bensge
-Name: FullSafari (Fix)
-
 Package: com.ps.highgraphics
 Version: 1.0-3
 Architecture: iphoneos-arm
