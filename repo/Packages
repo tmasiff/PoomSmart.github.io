@@ -233,16 +233,16 @@ Depiction: http://PoomSmart.github.io/repo/emojiattributes/index.html
 Name: EmojiAttributes
 
 Package: com.ps.emojilayout
-Version: 1.1.2
+Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 6.0), firmware (<< 8.3)
-Filename: .///debs/com.ps.emojilayout_1.1.2_iphoneos-arm.deb
-Size: 13650
-MD5sum: 1f490fa37c7e01de2a58ad88231a8896
-SHA1: 855bc14f451abc578fb236034798022edd378858
-SHA256: 455dffe2d5fbe9782bb63e281730df37cbab9c1256dde5587da5209b215683f1
+Filename: .///debs/com.ps.emojilayout_1.1.3_iphoneos-arm.deb
+Size: 13642
+MD5sum: 9886f3883cff0c4a67a143ccab96f9a6
+SHA1: e6c02032cd02614b196f37cc5b8b18fe2fa2f3e5
+SHA256: aa41b728b170f94a8c21cc2765e2cdc66761fefb5ed348fc7e60e9fbe58e806b
 Section: Tweaks
 Description: Layout the emoji keyboard.
 Author: PoomSmart
