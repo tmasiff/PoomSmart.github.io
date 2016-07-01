@@ -250,16 +250,16 @@ Depiction: http://PoomSmart.github.io/repo/emojilayout/index.html
 Name: EmojiLayout
 
 Package: com.ps.emojilocalization
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 352
-Depends: mobilesubstrate, firmware (>= 8.3)
-Filename: .///debs/com.ps.emojilocalization_1.0.1_iphoneos-arm.deb
+Depends: mobilesubstrate
+Filename: .///debs/com.ps.emojilocalization_1.0.2_iphoneos-arm.deb
 Size: 16596
-MD5sum: f0e54658141f56de22b0f3f95f51675c
-SHA1: 7bbcf9ba8c6893cd28195ed839923e1e36b209af
-SHA256: 53447d53e3f54a2a6eb4b20bb8c4cdeb14ad2c3c0081047d3d12201a45841d40
+MD5sum: b0c5db45945a174bf482034db6a54db6
+SHA1: 905ce41e7f0317a0de12e355d72818c3c204afa6
+SHA256: 82307acc4e00345bafc3c01986c381194e0562c57301fb1be2dd224dbe06b9b9
 Section: Tweaks
 Description: Correct localization for emoji keyboard.
 Author: PoomSmart
