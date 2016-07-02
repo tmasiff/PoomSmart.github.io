@@ -4,5 +4,11 @@ document.write('\
             <a href="https://twitter.com/PoomSmart"><img class="icon" src="../../assets/icons/twitter-256-black.png"><div><div><label><p>Developer\'s Twitter</p></label></div></div></a>\
             <a href="https://github.com/PoomSmart"><img class="icon" src="../../assets/icons/github-256-black.png"><div><div><label><p>Developer\'s GitHub</p></label></div></div></a>\
             <a href="https://PoomSmart.github.io/repo"><div><div><label><p>&#x1f4b0 Donate to this developer</p></label></div></div></a>\
+         </fieldset>\
+    <label>Developer\'s Tweaks Compatibility List</label>\
+        <fieldset>\
+            <a href="https://www.icloud.com/numbers/000h733Pwo-MdH6Ho0jNBGzew#MyCydiaTweaks"><div><div><label><p>All Tweaks</p></label></div></div></a>\
+            <a href="https://www.icloud.com/numbers/0003eNXsAjSBXquTXHC60SUcg#PS-Camera-Tweaks-Compatibility"><div><div><label><p>Camera Tweaks</p></label></div></div></a>\
+            <a href="https://www.icloud.com/numbers/000bip387AfwuHY-yZw7cXGEw#MyFlipswitches"><div><div><label><p>Flipswitches</p></label></div></div></a>\
         </fieldset>\
 ');
