@@ -181,16 +181,16 @@ Depiction: http://PoomSmart.github.io/repo/emoji9fix/index.html
 Name: Emoji9 Fix
 
 Package: com.ps.emoji9legacy
-Version: 1.3.12
+Version: 1.3.13
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 472
 Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 8.3), com.ps.emojilayout, com.ps.emojiattributes, com.ps.emojiresources, com.ps.emojilocalization
-Filename: .///debs/com.ps.emoji9legacy_1.3.12_iphoneos-arm.deb
-Size: 67892
-MD5sum: 2648cacc654ab5d52c741fa45a695398
-SHA1: 1bd3813789c7b457f40ade5d7958a8d54634b658
-SHA256: 678bba22cafa186767d89c7db16b68363e2eb1e1eb15322c5e6ddbcd85814296
+Filename: .///debs/com.ps.emoji9legacy_1.3.13_iphoneos-arm.deb
+Size: 67808
+MD5sum: 37f879c40f7fa0fa1d63598140faff62
+SHA1: 3da8d28590a618ffd0175cf7ff60a859e62fb015
+SHA256: 8e014c9134df3c90244a69494ce7e3b9492f2ed8b2df103d8e91009d0c8858ac
 Section: Tweaks
 Description: Latest emojis for iOS 6.0-8.2
 Author: PoomSmart
@@ -512,6 +512,23 @@ Description: Swipe across keyboard for continuous typing!
 Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/swipekey/index.html
 Name: SwipeKey [Beta]
+
+Package: com.ps.tapformore
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 128
+Depends: firmware (>= 4.0), firmware (<< 8.0), preferenceloader
+Filename: .///debs/com.ps.tapformore_1.0_iphoneos-arm.deb
+Size: 15454
+MD5sum: 3aa4d64b0877ee2b5af76f998f1b3de1
+SHA1: 43225efcc6d402bbf53c7d94766c76b90e23014d
+SHA256: ef6f1e8e674d00be95cf811a81f39a958c08de8f73ea03c228d031fb6135e5dd
+Section: Tweaks
+Description: Manage packages via tap.
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/tapformore/index.html
+Name: TapForMore
 
 Package: com.ps.wificallingfs
 Version: 0.0.1-1
