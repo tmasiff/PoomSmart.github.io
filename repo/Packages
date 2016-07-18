@@ -187,10 +187,10 @@ Maintainer: PoomSmart
 Installed-Size: 472
 Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 8.3), com.ps.emojilayout, com.ps.emojiattributes, com.ps.emojiresources, com.ps.emojilocalization
 Filename: .///debs/com.ps.emoji9legacy_1.3.20_iphoneos-arm.deb
-Size: 68480
-MD5sum: d9cdcc953471511404a1b8fba0bb5e6b
-SHA1: e719d18d433730cb1d62fe328572774bc52776d5
-SHA256: 4b970171fd6b822f1dc72812c7bf525c3a6bab999792d79006fe6df14318056a
+Size: 68214
+MD5sum: e15d5ca25f8c68b12a77b4bdd99d675f
+SHA1: 562dde2ba163ff704155d13502c85fa48c9ded27
+SHA256: c6f2e5e7c586a5101e6e42f119bc5532ee072a27e189ec6ed512229e724d2f27
 Section: Tweaks
 Description: Latest emojis for iOS 6.0-8.2
 Author: PoomSmart
