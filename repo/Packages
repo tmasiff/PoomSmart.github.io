@@ -250,32 +250,32 @@ Depiction: http://PoomSmart.github.io/repo/emojilayout/index.html
 Name: EmojiLayout
 
 Package: com.ps.emojilocalization
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 352
 Depends: mobilesubstrate
-Filename: .///debs/com.ps.emojilocalization_1.0.2_iphoneos-arm.deb
-Size: 16596
-MD5sum: b0c5db45945a174bf482034db6a54db6
-SHA1: 905ce41e7f0317a0de12e355d72818c3c204afa6
-SHA256: 82307acc4e00345bafc3c01986c381194e0562c57301fb1be2dd224dbe06b9b9
+Filename: .///debs/com.ps.emojilocalization_1.0.3_iphoneos-arm.deb
+Size: 16584
+MD5sum: df7b16edcec9df5a37e9534991e2905d
+SHA1: d09af0ecdca4c0143d43840694b1a1bf8564eebb
+SHA256: ce5d7710771b08b1e83977242377f702cdaea9d1b9ca82673aa955201982b001
 Section: Tweaks
 Description: Correct localization for emoji keyboard.
 Author: PoomSmart
 Name: EmojiLocalization
 
 Package: com.ps.emojiresources
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 488
 Depends: mobilesubstrate, firmware (<< 9.1)
-Filename: .///debs/com.ps.emojiresources_1.0.0_iphoneos-arm.deb
-Size: 40176
-MD5sum: dff1f2e642d2dad3811c9871398e07d5
-SHA1: dd16bb472d138e3cefc238dd8ad9073dbbb98fc9
-SHA256: 094bb45e2281b2a643bedd65ccada4974a9a5f51981ed51af6e8f0dea16d63b9
+Filename: .///debs/com.ps.emojiresources_1.0.1_iphoneos-arm.deb
+Size: 40184
+MD5sum: 6699c127fe6ed914cec3cd31ffc86524
+SHA1: 60501fec683f4b448c244bc24dc47ce2c1a98002
+SHA256: 3004f5497e51d094f76f9dd8aa7cdfd25cc2a7188218d589d8a1bd041bc94dda
 Section: Tweaks
 Description: Extra Emoji category icons.
 Author: PoomSmart
