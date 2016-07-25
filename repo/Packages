@@ -169,10 +169,10 @@ Maintainer: PoomSmart
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 6.0)
 Filename: .///debs/com.ps.emoji10patch_1.0.0_iphoneos-arm.deb
-Size: 6850
-MD5sum: 0673653899c080d65daa0dcdeb6f792b
-SHA1: af5098cb3a862c8314af1971e2484d6d230735c3
-SHA256: 0db7dde33bd2ab20f1819774c71ab379125869ed2847427295993d58843276c5
+Size: 6856
+MD5sum: 727ef1740675e97ac10da719850bbb5e
+SHA1: d1d9a931db924ee8d0e44f3b11aa7b69adef89ea
+SHA256: de3b59b4cede65f51178182df7d9c9192faa3d121e71582738ba065e20b3f65b
 Section: Tweaks
 Description: Adding Unicode 9.0 emojis to your keyboard
 Author: PoomSmart
