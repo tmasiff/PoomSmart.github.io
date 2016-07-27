@@ -283,16 +283,16 @@ Author: PoomSmart
 Name: EmojiLocalization
 
 Package: com.ps.emojiresources
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 488
 Depends: mobilesubstrate, firmware (<< 9.1)
-Filename: .///debs/com.ps.emojiresources_1.0.2_iphoneos-arm.deb
-Size: 40190
-MD5sum: 3f528f0dc16e8eb139b6d7157b47c288
-SHA1: 5013705c1419522addfc66ea8073437408fa75f6
-SHA256: 76df3bbb650ba0d49238f06c999a7b308e62562e22b10bac2373a162943c0948
+Filename: .///debs/com.ps.emojiresources_1.0.3_iphoneos-arm.deb
+Size: 32858
+MD5sum: a85c576d101a973cf7fe84db7f09fb51
+SHA1: 4c56545ec9b7ac384ecef3c0c740500bf2d30f6a
+SHA256: 25443e5f43766885d97b3b8c873d2593f1f480187e588ffc9d09dd565c72e5e3
 Section: Tweaks
 Description: Extra Emoji category icons.
 Author: PoomSmart
