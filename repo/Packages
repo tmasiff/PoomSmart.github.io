@@ -180,17 +180,17 @@ Depiction: http://PoomSmart.github.io/repo/emoji10patch/index.html
 Name: Emoji10 Patch
 
 Package: com.ps.emoji9fix
-Version: 1.3.3
+Version: 1.3.4
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes, com.ps.emojilocalization, com.ps.emojiresources
 Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9
-Filename: .///debs/com.ps.emoji9fix_1.3.3_iphoneos-arm.deb
-Size: 12170
-MD5sum: 3ecfed94e7e99d0a43e3ac0d5ea210a0
-SHA1: 94595eb8e4c13762a9bf9d4ce47f91e0be2c2585
-SHA256: 5eb9da871c9b1529122435c02f749ae062972bee143532972956c817a2309427
+Filename: .///debs/com.ps.emoji9fix_1.3.4_iphoneos-arm.deb
+Size: 12712
+MD5sum: 6538bad3ae0b9ead06a3bbc5f65c30b5
+SHA1: 3ffe3785ae47b2702593d9bdc4743743023102f8
+SHA256: 5614d3ee5b6d005acc85972775ab34a37f45825de6822410455e8a44d3bbf709
 Section: Tweaks
 Description: Latest emojis for iOS 8.3-8.4
 Author: PoomSmart
@@ -198,16 +198,16 @@ Depiction: http://PoomSmart.github.io/repo/emoji9fix/index.html
 Name: Emoji9 Fix
 
 Package: com.ps.emoji9legacy
-Version: 1.4.3
+Version: 1.4.4
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 472
 Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 8.3), com.ps.emojilayout, com.ps.emojiattributes, com.ps.emojiresources, com.ps.emojilocalization
-Filename: .///debs/com.ps.emoji9legacy_1.4.3_iphoneos-arm.deb
-Size: 66848
-MD5sum: 050c00f195568086ca8c62f696bfc746
-SHA1: 5b208a9c3078a1aa9ddc7cb3092c5898313ee541
-SHA256: c8663373a707fc72d23c4c741090db1db97f3af9c5be18990f4e49b77e2426d7
+Filename: .///debs/com.ps.emoji9legacy_1.4.4_iphoneos-arm.deb
+Size: 66604
+MD5sum: 8e38fe8d96ea5cfb073a0a0d6109dcce
+SHA1: a707cb286ed1d48f967075565eb60cb95b97526c
+SHA256: 4208c1dc2f5cb4bc38af7e91c762a2ab9afa414b0cc7d6a648cf9a66130aa99b
 Section: Tweaks
 Description: Latest emojis for iOS 6.0-8.2
 Author: PoomSmart
