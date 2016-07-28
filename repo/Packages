@@ -267,32 +267,32 @@ Depiction: http://PoomSmart.github.io/repo/emojilayout/index.html
 Name: EmojiLayout
 
 Package: com.ps.emojilocalization
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 352
+Installed-Size: 288
 Depends: mobilesubstrate, firmware (<< 9.1)
-Filename: .///debs/com.ps.emojilocalization_1.0.4_iphoneos-arm.deb
-Size: 16602
-MD5sum: 65fddaf8c8b69486b2df9242d48b6def
-SHA1: 86ad7518ef5b90e7a0b9bbf246f04053589dea87
-SHA256: be757d0b25772225734f4595070d7b1dec1f27ac958572be10ce9ae308bfb09b
+Filename: .///debs/com.ps.emojilocalization_1.0.5_iphoneos-arm.deb
+Size: 16392
+MD5sum: a4510a90d21e2354e554a39f9d018111
+SHA1: b5042126cb621f8ebbdc90da2f64ba359da65948
+SHA256: f1fefe1048f4045fcff776776c1f750877bc6bdc7981fa6cea50cf840526bf7b
 Section: Tweaks
 Description: Correct localization for emoji keyboard.
 Author: PoomSmart
 Name: EmojiLocalization
 
 Package: com.ps.emojiresources
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 488
+Installed-Size: 424
 Depends: mobilesubstrate, firmware (<< 9.1)
-Filename: .///debs/com.ps.emojiresources_1.0.3_iphoneos-arm.deb
-Size: 32858
-MD5sum: a85c576d101a973cf7fe84db7f09fb51
-SHA1: 4c56545ec9b7ac384ecef3c0c740500bf2d30f6a
-SHA256: 25443e5f43766885d97b3b8c873d2593f1f480187e588ffc9d09dd565c72e5e3
+Filename: .///debs/com.ps.emojiresources_1.0.4_iphoneos-arm.deb
+Size: 32504
+MD5sum: 791a216c77cd3fc401f380d40a6c85ec
+SHA1: d1fb42c9cb7c33b21e9f5a5b44b3143c2111a380
+SHA256: 17d2e7d8a45469fafb374b5edc178391fc88a71215943b60c35483292f4185f5
 Section: Tweaks
 Description: Extra Emoji category icons.
 Author: PoomSmart
@@ -313,6 +313,23 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for FLEXible.
 Author: PoomSmart
 Name: FLEXible Flipswitch
+
+Package: com.ps.fullsafari
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: bensge
+Installed-Size: 124
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.bensge.fullsafari
+Filename: .///debs/com.ps.fullsafari_0.0.1-6_iphoneos-arm.deb
+Size: 7402
+MD5sum: 2d788c42952d449df56c78551e51141a
+SHA1: 01c43f6da6872551cfb731e2ba652e056ee0306a
+SHA256: b07a0b3bb3fa7a3c6f83f42cd6f7cada8caa0a2cc8f1770438bfeefa40970619
+Section: Tweaks
+Description: Enable iPad-like Safari tabs on any device, always.
+Author: bensge
+Name: FullSafari (Fix)
 
 Package: com.ps.highgraphics
 Version: 1.0-3
