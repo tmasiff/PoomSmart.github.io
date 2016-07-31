@@ -63,16 +63,16 @@ Depiction: http://PoomSmart.github.io/repo/buddylock/index.html
 Name: BuddyLock
 
 Package: com.ps.calleridfs
-Version: 0.0.1-1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 1844
+Installed-Size: 1764
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, gsc.telephony
-Filename: .///debs/com.ps.calleridfs_0.0.1-1_iphoneos-arm.deb
-Size: 1668368
-MD5sum: 80d547fcd042f5980266068861f1c06a
-SHA1: d119bf9a67a2e0bb26c8b2aa01a60f8cfd831f67
-SHA256: 4ce8f3e91f13aa180a46d69e7ac30001baff94694918e7dc7f394af03f937b9c
+Filename: .///debs/com.ps.calleridfs_0.0.2_iphoneos-arm.deb
+Size: 468918
+MD5sum: ef312ca5e98dd933f0f34715e225caf2
+SHA1: a0d88781e32d91ebf5618e01dc43c2d74b99427f
+SHA256: 71a060fcf2ae1eafbea50278d7b680b751f8ed359e124bee270ab309d6d368fc
 Section: Addons (Flipswitch)
 Description: Toggle for Caller ID.
 Author: PoomSmart
