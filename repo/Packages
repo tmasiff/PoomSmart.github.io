@@ -168,13 +168,12 @@ Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 248
 Depends: mobilesubstrate, firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes, com.ps.emojilocalization, com.ps.emojiresources
-Conflicts: org.thebigboss.emoji83plus
-Replaces: com.ps.emoji9fix
+Conflicts: org.thebigboss.emoji83plus, com.ps.emoji9fix
 Filename: .///debs/com.ps.emoji10fix_1.3.6_iphoneos-arm.deb
-Size: 24576
-MD5sum: 1a79fac5cb1be053c99460ae8e07d547
-SHA1: 7c00b5961c9bcc3e405ca992d679da3efa0448c8
-SHA256: 9d0ee89717ad516cfe49e16e88efab61a67c2d499ead0e60a2633ab9f8f124bf
+Size: 24298
+MD5sum: 24b6575b06b59c2053b0b459bd38372e
+SHA1: a9fd593ec0c1ef62af0abc52dade4cc2f1b0bb88
+SHA256: 22d306bf698254968df67d629655e237a82ded0bad763457df9c9816625e4013
 Section: Tweaks
 Description: Latest emojis for iOS 8.3-8.4
 Author: PoomSmart
@@ -187,12 +186,12 @@ Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 680
 Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 8.3), com.ps.emojilayout, com.ps.emojiattributes, com.ps.emojiresources, com.ps.emojilocalization
-Replaces: com.ps.emoji9legacy
+Conflicts: com.ps.emoji9legacy
 Filename: .///debs/com.ps.emoji10legacy_1.4.6_iphoneos-arm.deb
-Size: 86790
-MD5sum: f5f4802522e7eaa020bbd6035ac76faf
-SHA1: 8edbb239158535699ff04b73677d5daded11f6ab
-SHA256: 0ad74c3ce120a39c29b94a395e95ac2e8151f107623849ab7704687bf041695c
+Size: 87468
+MD5sum: a28a8558e592a8c7061ff7d6738d6fc4
+SHA1: 2bcfabbc57f3fa6fa66c5a6487373ecb1dcd4d86
+SHA256: 2a231e88ad2b05733bb3fb575d92757bd5a7071559e648753fee14bcc19b7ddc
 Section: Tweaks
 Description: Latest emojis for iOS 6.0-8.2
 Author: PoomSmart
@@ -222,13 +221,12 @@ Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 232
 Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 10.0), com.ps.emojiattributes, firmware (>= 9.1) | com.ps.emojilocalization, firmware (>= 9.1) | com.ps.emojiresources
-Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9
-Replaces: com.ps.emoji9ps
+Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9, com.ps.emoji9ps
 Filename: .///debs/com.ps.emoji10ps_1.3.4_iphoneos-arm.deb
-Size: 23410
-MD5sum: f586a8d7fcd1d88f37b11eb7051a1dc8
-SHA1: 16af9409642cb2750adcf619845d1254ecb57c4d
-SHA256: 19f0a44d817fe832586b634299be831c41e9839e691dd736a7495bcdccef5260
+Size: 23368
+MD5sum: eafc3ac21c92221660c4662b25e8d099
+SHA1: 8242f7b9c68d306fa584d4413c921b19a803ba84
+SHA256: 2ed37875f4ac42709d1cdb85317e3f38591c07d63b03df30c5d8122e210c93a6
 Section: Tweaks
 Description: Latest emojis for iOS 9.0+
 Author: PoomSmart
