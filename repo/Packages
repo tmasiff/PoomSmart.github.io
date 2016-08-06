@@ -637,16 +637,16 @@ Depiction: http://PoomSmart.github.io/repo/tapformore/index.html
 Name: TapForMore
 
 Package: com.ps.wificallingfs
-Version: 0.0.1-1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 200
+Installed-Size: 120
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 8.0), gsc.telephony
-Filename: .///debs/com.ps.wificallingfs_0.0.1-1_iphoneos-arm.deb
-Size: 8418
-MD5sum: b3da4c4f083fb279e26efeede3193566
-SHA1: 8e02e243baf2b3522cb1e1856f796094fb81b5cf
-SHA256: b479ef74c11f32c30f8d0bd452fbd808d7ff490efbeb2b599550f0b83a3efab0
+Filename: .///debs/com.ps.wificallingfs_0.0.2_iphoneos-arm.deb
+Size: 4718
+MD5sum: c7ab54396d9ad15da62bc5026dbb0258
+SHA1: 15184cbd6ec189df3d9b461ba227ebde67f276be
+SHA256: 70d1d80fd8ba792e2ca79a456b6323314b1f53e932ed694e74213ca290555ab0
 Section: Addons (Flipswitch)
 Description: Toggle for Wi-Fi Calling.
 Author: PoomSmart
