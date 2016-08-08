@@ -652,22 +652,6 @@ Description: Toggle for Wi-Fi Calling.
 Author: PoomSmart
 Name: Wi-Fi Calling Flipswitch
 
-Package: org.thebigboss.3g2gflipswitch
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 176
-Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 6.0), gsc.cellular-data
-Filename: .///debs/org.thebigboss.3g2gflipswitch_0.0.3_iphoneos-arm.deb
-Size: 22124
-MD5sum: ba0f9e672c5e30073e44a67bf07ddf85
-SHA1: 86d208d8fadb3a2513cb6dc3354871672a4c84be
-SHA256: a860c0b93866475ef81fd0bf7e0d492b5f9b0ea2476d9c6278740cd1bdf6c1dc
-Section: Addons (Flipswitch)
-Description: Cellular network toggle for 2G/3G-only.
-Author: PoomSmart
-Name: 3G Flipswitch (Legacy)
-
 Package: org.thebigboss.cfprefsdfix
 Version: 1.0-1
 Architecture: iphoneos-arm
