@@ -163,17 +163,17 @@ Depiction: http://PoomSmart.github.io/repo/dictationpasscode/index.html
 Name: DictationPasscode
 
 Package: com.ps.emoji10fix
-Version: 1.3.7
+Version: 1.3.8
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 248
 Depends: mobilesubstrate, firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes, com.ps.emojilocalization, com.ps.emojiresources
 Conflicts: org.thebigboss.emoji83plus, com.ps.emoji9fix
-Filename: .///debs/com.ps.emoji10fix_1.3.7_iphoneos-arm.deb
-Size: 24546
-MD5sum: a201826f2474c2d32d642ead31f8bce7
-SHA1: d8ed84617cc2de9c9c46e4cb0d62d93e732c1dcd
-SHA256: 38acfcffb6aa407125e47480177e1e632d30ba73925b84fe200a6a821d42daf9
+Filename: .///debs/com.ps.emoji10fix_1.3.8_iphoneos-arm.deb
+Size: 24628
+MD5sum: 09746730862017f4ec1338ee66a8319d
+SHA1: 3a84d62282dfa1060a56a7d1f4b466ec286f95df
+SHA256: f3070a15ba7cc59feb8a3683aee24e53cb269444371dcc90a3cc68df1a316856
 Section: Tweaks
 Description: Latest emojis for iOS 8.3-8.4
 Author: PoomSmart
@@ -217,17 +217,17 @@ Depiction: http://PoomSmart.github.io/repo/emoji10patch/index.html
 Name: Emoji10 Patch
 
 Package: com.ps.emoji10ps
-Version: 1.3.5
+Version: 1.3.6
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 248
 Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 10.0), com.ps.emojiattributes, firmware (>= 9.1) | com.ps.emojilocalization, firmware (>= 9.1) | com.ps.emojiresources
 Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9, com.ps.emoji9ps
-Filename: .///debs/com.ps.emoji10ps_1.3.5_iphoneos-arm.deb
-Size: 23484
-MD5sum: 88f8b97fc82b61e46db325dd3523b26e
-SHA1: 5cd48e7cd6463a8381934b837485d9bf8308576d
-SHA256: a25b9d77285d7d5233af24b668b8238d4a88c326ce89a69e40b3da5e8a9b3092
+Filename: .///debs/com.ps.emoji10ps_1.3.6_iphoneos-arm.deb
+Size: 23486
+MD5sum: e73be6526fa5c3e3cddbbdbe37f8e49f
+SHA1: 31ee46c4c089033fead542addfeb71e65a3a52e1
+SHA256: 830b7c63e6ce20ab8276ecc80dc42a8c9b37af05d1e44cee92fe1a3321a67bf4
 Section: Tweaks
 Description: Latest emojis for iOS 9.0+
 Author: PoomSmart
