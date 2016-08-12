@@ -146,17 +146,17 @@ Author: PoomSmart
 Name: CCScaleBT
 
 Package: com.ps.emoji10fix
-Version: 1.3.8
+Version: 1.3.9
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 248
 Depends: mobilesubstrate, firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes, com.ps.emojilocalization, com.ps.emojiresources
 Conflicts: org.thebigboss.emoji83plus, com.ps.emoji9fix
-Filename: .///debs/com.ps.emoji10fix_1.3.8_iphoneos-arm.deb
-Size: 24628
-MD5sum: 09746730862017f4ec1338ee66a8319d
-SHA1: 3a84d62282dfa1060a56a7d1f4b466ec286f95df
-SHA256: f3070a15ba7cc59feb8a3683aee24e53cb269444371dcc90a3cc68df1a316856
+Filename: .///debs/com.ps.emoji10fix_1.3.9_iphoneos-arm.deb
+Size: 24678
+MD5sum: 08bfbee4a179220aab9f6a06043d0a71
+SHA1: e489cbe7f5843b8b4637ae3fe097610f064579f9
+SHA256: 7985a1bb786ac088c1075c328ee44c335bacf2210c42b65fe8e7dcbc2d4e1c1e
 Section: Tweaks
 Description: Latest emojis for iOS 8.3-8.4
 Author: PoomSmart
