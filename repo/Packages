@@ -46,6 +46,22 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/anywherepredict/index.html
 Name: AnywherePredict
 
+Package: com.ps.bigmoji
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 120
+Depends: mobilesubstrate, firmware (<< 10.0)
+Filename: .///debs/com.ps.bigmoji_1.0.0_iphoneos-arm.deb
+Size: 7954
+MD5sum: 168d81a9c14e2bf49aaa10c49b6842ff
+SHA1: 54d4da7000db30bdc0d9b52452ccade245296e8a
+SHA256: 1bcf27d1d36bcbaebdf529acfcb7cdb2250ae40425f9b07bd66fa5aa6026af26
+Section: Tweaks
+Description: Bigger emoji for iMessages
+Author: PoomSmart
+Name: Bigmoji
+
 Package: com.ps.buddylock
 Version: 1.0-1
 Architecture: iphoneos-arm
