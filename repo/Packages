@@ -197,24 +197,6 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/emoji10legacy/index.html
 Name: Emoji10 (iOS 6.0-8.2) [Beta]
 
-Package: com.ps.emoji10patch
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 120
-Depends: mobilesubstrate, firmware (>= 6.0)
-Conflicts: com.ps.emoji10legacy, com.ps.emoji10fix, com.ps.emoji10ps
-Filename: .///debs/com.ps.emoji10patch_1.0.1_iphoneos-arm.deb
-Size: 9686
-MD5sum: b2136016df678debf0b0f77c93e38288
-SHA1: 76739648a87d993e254a51565bae0217e35b7768
-SHA256: a91e4bd85d346c162d6808181d725ff03fafb4134cc051a031e88e94fc3845c8
-Section: Tweaks
-Description: Unicode 9.0 Emoji for your keyboard
-Author: PoomSmart
-Depiction: http://PoomSmart.github.io/repo/emoji10patch/index.html
-Name: Emoji10 Patch
-
 Package: com.ps.emoji10ps
 Version: 1.3.6
 Architecture: iphoneos-arm
@@ -234,16 +216,16 @@ Depiction: http://PoomSmart.github.io/repo/emoji10ps/index.html
 Name: Emoji10 (iOS 9+) [Beta]
 
 Package: com.ps.emojiattributes
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 336
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: .///debs/com.ps.emojiattributes_1.2_iphoneos-arm.deb
-Size: 24720
-MD5sum: 0b1e6fde533f9bfbe651b16899b7a8a4
-SHA1: 36f4e631dfb0a93a068af1a00eb448d43fe7b98d
-SHA256: bb48dce7f1310f472b806813f76a27fbf6d5f15430cd8cb72cbbeefd76475645
+Filename: .///debs/com.ps.emojiattributes_1.2.1_iphoneos-arm.deb
+Size: 25174
+MD5sum: 09690cb092a510ddf13ac020553f0fbd
+SHA1: 54bc947285fb529027820be7b0ff071b76338060
+SHA256: 3890baf243ddb44ec8106cd196bbfaa38ab3b881fe6105d9d68a10d72f833965
 Section: Tweaks
 Description: Fix Emoji Attributes.
 Author: PoomSmart
