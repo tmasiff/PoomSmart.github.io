@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>EmojiAttributes</title>
+    <title>EmojiFontManager [Beta]</title>
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
     <base target="_blank"/>
     <script type="text/javascript" src="http://beta.tmnlsthrn.com/css/menes.js"></script>
@@ -17,7 +17,7 @@
     <panel>
 
         <fieldset class="iosver">
-            <div data-min-ios="6.0" data-max-ios="10.2" class="prerequisite">
+            <div data-min-ios="6.0" class="prerequisite">
                 <p>For iOS 6.0+</p>
             </div>
         </fieldset>
@@ -25,17 +25,14 @@
     <label>Description</label>
         <fieldset>
             <div>
-            <p>In order to display emoji text correctly, iOS has to know their corresponding characterset (a set of all emoji unicodes) so that it can apply the proper attributes (specific configuration of individual font) to emoji text. The problem is when you try to add some new emoji to earlier versions of iOS. Since the corresponding characterset is fixed, depended on iOS itself, any new emoji will be displayed incorrectly (as "?" icon instead of actual emoji). We need to modify the characterset to include all emoji we needed, and EmojiAttributes does that job.</p>
+            <p>This tweak allows you to override system's emoji font without swapping them. Access Settings app &gt; EmojFontManager to choose your font. Fonts that can be used by this tweak must be placed in /Library/Themes/EmojiFontManager. It is highly recommend to respring after you change the font.</p>
             </div>
         </fieldset>
 
     <label>Latest Changes</label>
         <fieldset>
             <div><div><label>
-            <p>1.2.3: Better support for latest emojis</p><br/>
-            <p>1.2.2: Initial support for latest emojis</p><br/>
-            <p>1.1.1: Support emoji rendering of those new in iOS 10 beta 4</p><br/>
-            <p>1.1.0: Run only in UIKit apps</p>
+            <p>0.0.1: Initial commit</p>
             </label></div></div>
         </fieldset>
         
