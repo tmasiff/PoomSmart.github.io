@@ -197,23 +197,23 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/emoji10fix/index.html
 Name: Emoji10 (iOS 8.3/8.4)
 
-Package: com.ps.emoji10legacy
-Version: 1.5
+Package: com.ps.emoji10fix
+Version: 1.4.5
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 744
-Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 8.3), com.ps.emojilayout, com.ps.emojiattributes, com.ps.emojiresources, com.ps.emojilocalization
-Conflicts: com.ps.emoji9legacy
-Filename: .///debs/com.ps.emoji10legacy_1.5_iphoneos-arm.deb
-Size: 91140
-MD5sum: 1a0500c52b285752ba5d5be3532faa5c
-SHA1: b6b8c9351dfafd85310cfc302da341d67d81290e
-SHA256: 08a02096392fa33577f0b3b1466a4d4fd5bd4ba6070e11ffd440cb603034c38f
+Installed-Size: 264
+Depends: mobilesubstrate, firmware (>= 8.3), firmware (<< 9.0), com.ps.emojiattributes, com.ps.emojilocalization, com.ps.emojiresources
+Conflicts: org.thebigboss.emoji83plus, com.ps.emoji9fix
+Filename: .///debs/com.ps.emoji10fix_1.4.5_iphoneos-arm.deb
+Size: 27600
+MD5sum: e9ec88052866b908d5aaa8ab147f772c
+SHA1: 782393c9b3adbdc5c590ce9bde7d796d53df18f2
+SHA256: 28c6003278e6ec3c8b887fd29fd7362e2436a555970ec86ba0d515fb93ecce6c
 Section: Tweaks
-Description: Latest emojis for iOS 6.0-8.2
+Description: Latest emojis for iOS 8.3-8.4
 Author: PoomSmart
-Depiction: http://PoomSmart.github.io/repo/emoji10legacy/index.html
-Name: Emoji10 (iOS 6.0-8.2) [Beta]
+Depiction: http://PoomSmart.github.io/repo/emoji10fix/index.html
+Name: Emoji10 (iOS 8.3/8.4)
 
 Package: com.ps.emoji10legacy
 Version: 1.5.1
@@ -251,6 +251,24 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/emoji10legacy/index.html
 Name: Emoji10 (iOS 6.0-8.2)
 
+Package: com.ps.emoji10legacy
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 748
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), firmware (<< 8.3), com.ps.emojilayout, com.ps.emojiattributes, com.ps.emojiresources, com.ps.emojilocalization
+Conflicts: com.ps.emoji9legacy
+Filename: .///debs/com.ps.emoji10legacy_1.5.3_iphoneos-arm.deb
+Size: 90814
+MD5sum: fd5355493530fbc61f73cc823460576d
+SHA1: b1ac7d4ac1d57a0e904ebd2f8e967f87bdd225e0
+SHA256: 090a7d8cf9f8fa301f08fd3477ede9ed8e889c64eb4e4c9101e17e993b001adb
+Section: Tweaks
+Description: Latest emojis for iOS 6.0-8.2
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/emoji10legacy/index.html
+Name: Emoji10 (iOS 6.0-8.2)
+
 Package: com.ps.emoji10ps
 Version: 1.4.2
 Architecture: iphoneos-arm
@@ -281,6 +299,24 @@ Size: 27276
 MD5sum: 50276b92b79c84afb9ece264aba180ff
 SHA1: 16b3c0edaac0d47bbc2f3894b52765aabe66d217
 SHA256: 7377852bc5da7a3b2c1b24c5d62670a1bb769ebae42f0cff4b461c092edb9e59
+Section: Tweaks
+Description: Latest emojis for iOS 9.0+
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/emoji10ps/index.html
+Name: Emoji10 (iOS 9+)
+
+Package: com.ps.emoji10ps
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 264
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 10.0), com.ps.emojiattributes, firmware (>= 9.1) | com.ps.emojilocalization, firmware (>= 9.1) | com.ps.emojiresources
+Conflicts: org.thebigboss.emoji83plus, com.hamzasood.emoji9, com.ps.emoji9ps
+Filename: .///debs/com.ps.emoji10ps_1.4.5_iphoneos-arm.deb
+Size: 26690
+MD5sum: 31c515e5cc855b714f33a0fde275b763
+SHA1: 4786e929c90ab1703399499ad3fa104cc43ee949
+SHA256: cb786708bfef1096151d357d598379f20f1d4d329e971582ad9044394468c6e7
 Section: Tweaks
 Description: Latest emojis for iOS 9.0+
 Author: PoomSmart
@@ -411,6 +447,22 @@ Description: Correct localization for emoji keyboard.
 Author: PoomSmart
 Name: EmojiLocalization
 
+Package: com.ps.emojilocalization
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 288
+Depends: mobilesubstrate, firmware (<< 9.1)
+Filename: .///debs/com.ps.emojilocalization_1.0.6_iphoneos-arm.deb
+Size: 17854
+MD5sum: 577c67dc8c624f406a8b530a9bc2b25f
+SHA1: 9b9368a8126b26fe470e77c63f695087bc0dccf8
+SHA256: d31a8de9b60a39760d83c4190eb1b5b46dabe95e17193e66a67575daad80f748
+Section: Tweaks
+Description: Correct localization for emoji keyboard.
+Author: PoomSmart
+Name: EmojiLocalization
+
 Package: com.ps.emojiresources
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -422,6 +474,22 @@ Size: 32504
 MD5sum: 791a216c77cd3fc401f380d40a6c85ec
 SHA1: d1fb42c9cb7c33b21e9f5a5b44b3143c2111a380
 SHA256: 17d2e7d8a45469fafb374b5edc178391fc88a71215943b60c35483292f4185f5
+Section: Tweaks
+Description: Extra Emoji category icons.
+Author: PoomSmart
+Name: EmojiResources
+
+Package: com.ps.emojiresources
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (<< 9.1)
+Filename: .///debs/com.ps.emojiresources_1.0.5_iphoneos-arm.deb
+Size: 33210
+MD5sum: fc4e9b02306cd3dd4834753e40e0366a
+SHA1: cae147ab5d9f50bcf204afb8b2529e398e449312
+SHA256: 3b69b32b501325ed16a8112e79ab4b5a70d0814ea1e4c4b6ab2216f4269de400
 Section: Tweaks
 Description: Extra Emoji category icons.
 Author: PoomSmart

@@ -7,8 +7,8 @@ document.write('\
          </fieldset>\
     <label>Developer\'s Tweaks Compatibility List</label>\
         <fieldset>\
-            <a href="https://www.icloud.com/numbers/000h733Pwo-MdH6Ho0jNBGzew#MyCydiaTweaks"><div><div><label><p>All Tweaks</p></label></div></div></a>\
+            <a href="https://www.icloud.com/numbers/0dkAYjrpPKWWVNDejK2hP9xwQ#Tweaks"><div><div><label><p>All Tweaks</p></label></div></div></a>\
             <a href="https://www.icloud.com/numbers/0003eNXsAjSBXquTXHC60SUcg#PS-Camera-Tweaks-Compatibility"><div><div><label><p>Camera Tweaks</p></label></div></div></a>\
-            <a href="https://www.icloud.com/numbers/000bip387AfwuHY-yZw7cXGEw#MyFlipswitches"><div><div><label><p>Flipswitches</p></label></div></div></a>\
+            <a href="https://www.icloud.com/numbers/0-K_yL6EopWwzSeZrti1Whj2w#Flipswitches"><div><div><label><p>Flipswitches</p></label></div></div></a>\
         </fieldset>\
 ');
