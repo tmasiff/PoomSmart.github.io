@@ -480,16 +480,16 @@ Author: PoomSmart
 Name: EmojiResources
 
 Package: com.ps.emojiresources
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 424
 Depends: mobilesubstrate, firmware (<< 9.1)
-Filename: .///debs/com.ps.emojiresources_1.0.5_iphoneos-arm.deb
-Size: 33210
-MD5sum: fc4e9b02306cd3dd4834753e40e0366a
-SHA1: cae147ab5d9f50bcf204afb8b2529e398e449312
-SHA256: 3b69b32b501325ed16a8112e79ab4b5a70d0814ea1e4c4b6ab2216f4269de400
+Filename: .///debs/com.ps.emojiresources_1.0.6_iphoneos-arm.deb
+Size: 33168
+MD5sum: 0f8e757eef16dfda23512e5d703479d5
+SHA1: 9d3c964e37baaee8138ee2afb122baf9d5afe978
+SHA256: d638174a22de678293ab2c217d2fd1b8e9545c4f88ccec9c477fd8fb97ff2667
 Section: Tweaks
 Description: Extra Emoji category icons.
 Author: PoomSmart
