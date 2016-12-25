@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <meta charset=”utf-8”> 
+ <meta charset=”utf-8”>
  <title>Ultimate Guide for Emoji10</title>
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <!-- Bootstrap -->
@@ -204,7 +204,19 @@
 				<li>Tap <b>Reset emoji preferences</b> in the settings page of <b>EmojiFontManager</b>, if you use it</li>
 			</ul>
 		</div>
+    <div class="col-xs-12">
+      <h3>A note on Emoji10 for iOS 10</h3>
+      <p>Due to instability of iOS 10 jailbreak, the correct emoji font is meant to be <b>installed manually</b>. Here are steps:</p>
+      <ol>
+        <li>Download macOS Sierra 10.2 emoji font from <a href="https://cydia.ccabral.us/emoji10/AppleColorEmoji@2x.ttc">here</a> (Credits to <b>@ca13ra1</b>), or you can just get one from <code>/System/Library/Fonts/Apple Color Emoji.ttc</code> on your Sierra Macintosh</li>
+        <li>Make sure the font name is exactly <b>AppleColorEmoji@2x.ttc</b> (rename if needed)</li>
+        <li style="color:red;">Backup <b>AppleColorEmoji@2x.ttc</b> and <b>AppleColorEmoji@2x.ccf</b> in <code>/System/Library/Fonts/Core</code> of your device, as you won't be using these two files</li>
+        <li>Suggestion: You then remove those two files as your device may not have enough disk capacity to hold this large font size</li>
+        <li>Copy the downloaded font into that directory, and make sure you only have <b>AppleColorEmoji@2x.ttc</b> as an only emoji font file there</li>
+      </ol>
+    </div>
 	</div>
+  <br/>
  </div>
 </body>
 </html>
