@@ -400,16 +400,16 @@ Author: PoomSmart
 Name: FLEXible Flipswitch
 
 Package: com.ps.forcetrait
-Version: 1.0-5
+Version: 1.0-6
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 10.1)
-Filename: .///debs/com.ps.forcetrait_1.0-5_iphoneos-arm.deb
-Size: 4070
-MD5sum: e4776a8356fc70a8aa390a148d1640d9
-SHA1: 2c2d7d329b3dcab7998faa4e66e25500898793dc
-SHA256: bd71ab4e9dc8833fff127acac9ce0a32bbb56c1d0147f18743038c8e50bc6866
+Filename: .///debs/com.ps.forcetrait_1.0-6_iphoneos-arm.deb
+Size: 4254
+MD5sum: f7de063f9a0b59c888a7d5d921b7f091
+SHA1: 7ea0ea4b68fba4cee03bf7fcdd4eaa6208f8b29a
+SHA256: 47eebfc4029245ef6ab8705cd0d66f702f14d6cc356972e2a32b9c50eae05f29
 Section: Tweaks
 Description: "Programmatically" enable camera Portrait feature
 Author: PoomSmart
