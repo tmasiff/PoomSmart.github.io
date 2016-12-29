@@ -400,16 +400,16 @@ Author: PoomSmart
 Name: FLEXible Flipswitch
 
 Package: com.ps.forcetrait
-Version: 1.0-4+debug
+Version: 1.0-5
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
-Installed-Size: 140
+Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 10.1)
-Filename: .///debs/com.ps.forcetrait_1.0-4+debug_iphoneos-arm.deb
-Size: 4808
-MD5sum: b37744a339eb645fef5d42cf7e16463e
-SHA1: e2ca0e2e419f960eaa2554969e8bbacece29173c
-SHA256: cbe059fc51480fef961eefc81735005e8c1d50a678c5c9077d8009275d7a0987
+Filename: .///debs/com.ps.forcetrait_1.0-5_iphoneos-arm.deb
+Size: 4070
+MD5sum: e4776a8356fc70a8aa390a148d1640d9
+SHA1: 2c2d7d329b3dcab7998faa4e66e25500898793dc
+SHA256: bd71ab4e9dc8833fff127acac9ce0a32bbb56c1d0147f18743038c8e50bc6866
 Section: Tweaks
 Description: "Programmatically" enable camera Portrait feature
 Author: PoomSmart
@@ -481,23 +481,6 @@ Description: Flipswitch for MyWi, all three types
 Author: PoomSmart
 Name: MyWi Flipswitch
 
-Package: com.ps.nojail
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 276
-Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: net.limneos.palfix
-Filename: .///debs/com.ps.nojail_1.0.0_iphoneos-arm.deb
-Size: 7616
-MD5sum: 3274176ef5066833fdbb76caecec3cc7
-SHA1: a09a00464524606ffc197d516cce372d050d37b9
-SHA256: 20ea3eda6fb6046e1877be31d25b60b9dd2d8b0ce1a73d5e6e8d947e803e2e24
-Section: Tweaks
-Description: Tell apps you're not jailbroken.
-Author: PoomSmart
-Name: NoJail (Testing)
-
 Package: com.ps.poweroptionfs
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -513,22 +496,6 @@ Section: Addons (Flipswitch)
 Description: Toggle for power actions, with confirmation
 Author: PoomSmart
 Name: Power Option FS
-
-Package: com.ps.proactivesearchenabler
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 120
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: .///debs/com.ps.proactivesearchenabler_1.0-1_iphoneos-arm.deb
-Size: 6146
-MD5sum: 9550ab08f7bc4c4c7881fb6e4091ce79
-SHA1: 8d23e3f0dc27ac046c112c9bf09b8ea128a66044
-SHA256: daff68984e23a7aecef90e57158a2e81852f12a5d8862b65978bf5c95ea97e40
-Section: Tweaks
-Description: For unsupported devices ONLY.
-Author: PoomSmart
-Name: Spotlight Suggestions Enabler (Beta)
 
 Package: com.ps.reachfix
 Version: 1.0-2
