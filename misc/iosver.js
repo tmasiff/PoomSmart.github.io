@@ -5,9 +5,9 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s";
 
 (function(document) {
 	"use strict";
-	
+
 	function toNum(bits) {
-		return 10000 * bits[0] + 100 * (bits[1] ? bits[1] : 0) + (bits[2] ? bits[2] : 0);
+		return (10000 * parseInt(bits[0])) + parseInt((100 * (bits[1] ? bits[1] : 0))) + parseInt(bits[2] ? bits[2] : 0);
 	}
 
 	function parseVersionString(version) {
@@ -16,7 +16,6 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s";
 	}
 
 	function compareVersions(one, two) {
-		console.log(one);
 		var two_ = toNum(two);
 		return one != two_ ? (one > two_ ? 1 : -1) : 0;
 	}
@@ -27,13 +26,11 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s";
 	if (!prerequisite || !version) {
 		return;
 	}
-	
-	console.log(version);
 
 	var osVersion = [ version[2], version[3], version[4] ? version[5] : 0 ],
 
 		osString = osVersion[0] + "." + osVersion[1] + (osVersion[2] && osVersion[2] != 0 ? "." + osVersion[2] : ""),
-		
+
 		minString = prerequisite.dataset.minIos,
 		maxString = prerequisite.dataset.maxIos,
 
