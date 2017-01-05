@@ -549,6 +549,23 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/roundedtable/index.html
 Name: RoundedTable
 
+Package: com.ps.roundedtable
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 284
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 7.0)
+Filename: .///debs/com.ps.roundedtable_1.0.1_iphoneos-arm.deb
+Size: 13940
+MD5sum: b8e06170730b82949df3217be43d380f
+SHA1: ed60ec1b10bd82a110e88a1638c909ae42a09431
+SHA256: f2ae360187b6f0896c92e9dd374318c428dc59e069b2687698ee542a3fe80e4d
+Section: Tweaks
+Description: Rounded UITableView.
+Author: PoomSmart
+Depiction: http://PoomSmart.github.io/repo/roundedtable/index.html
+Name: RoundedTable
+
 Package: com.ps.sixtyfps
 Version: 0.0.2
 Architecture: iphoneos-arm
