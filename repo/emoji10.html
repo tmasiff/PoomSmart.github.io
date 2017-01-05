@@ -184,13 +184,13 @@
 			<p>To get around this problem, you have to see what happened inside the directory <code>/System/Library/Fonts/Core</code> (iOS 8.3+) or <code>/System/Library/Fonts/Cache</code> otherwise. The original font should still be there, but maybe with a wrong file extension.</p>
 			<ul>
 				<li>For <b>iOS 6.0 - 8.2</b>, the exactly correct name of the emoji font is <b>AppleColorEmoji@2x.ttf</b> (retina devices) or <b>AppleColorEmoji.ttf</b> otherwise</li>
-				<li>For <b>iOS 8.3 - 9.3</b>, similar to the above but you will also have a file with the same name but with extension <b>.ccf</b></li>
-        <li>For <b>iOS 10.0+</b>, nothing is extraordinary than the new extension of the emoji font <b>.ttc</b>, the manner is the same</li>
+				<li>For <b>iOS 8.3 - 9.3</b>, similar to the above but you will also have a file with the same name but with extension <b>.ccf</b>, which is in size larger than the ttf one</li>
+        <li>For <b>iOS 10.0+</b>, nothing is extraordinary than the new extension of the emoji font <b>.ttc</b> instead of <b>.ttf</b>, the manner is still the same</li>
       </ul>
 			<p>If you see something different, you are likely to have issues with the font. To restore default fonts, there are multiple ways:</p>
 			<ul>
-				<li>Get <b>BytaFont Backup fonts</b> that should be in Cydia for you recover lost fonts</li>
-				<li><code>/User/Library/Preferences/BytaFontBackup</code> should save all default fonts (provided that you use BytaFont), you can get the old emoji font from there</li>
+				<li>Get <b>BytaFont Backup fonts</b> that should be in Cydia for you to recover lost fonts</li>
+				<li><code>/User/Library/Preferences/BytaFontBackup</code> should keep all default fonts (provided that you use BytaFont), you can get the old emoji font from there</li>
 				<li>I do provide some system-default emoji fonts <a href="https://github.com/PoomSmart/EmojiLibrary">here</a> that you may use</li>
 				<li>There are also some links to the font that you may find on the internet, or reddit /r/jailbreak</li>
 			</ul>
@@ -211,9 +211,9 @@
       <ol>
         <li>Download macOS Sierra 10.2 emoji font from <a href="https://cydia.ccabral.us/emoji10/AppleColorEmoji@2x.ttc">here</a> (Credits to <b>@ca13ra1</b>), or you can just get one from <code>/System/Library/Fonts/Apple Color Emoji.ttc</code> on your Sierra Macintosh</li>
         <li>Make sure the font name is exactly <b>AppleColorEmoji@2x.ttc</b> (rename if needed)</li>
-        <li style="color:red;">Backup <b>AppleColorEmoji@2x.ttc</b> and <b>AppleColorEmoji@2x.ccf</b> in <code>/System/Library/Fonts/Core</code> of your device, as you won't be using these two files</li>
+        <li style="color:red;">Backup the default <b>AppleColorEmoji@2x.ttc</b> (small file) and <b>AppleColorEmoji@2x.ccf</b> (large file) in <code>/System/Library/Fonts/Core</code> of your device, as you won't be using these two files</li>
         <li>Suggestion: You then remove those two files as your device may not have enough disk capacity to hold this large font size</li>
-        <li>Copy the downloaded font into that directory, and make sure you only have <b>AppleColorEmoji@2x.ttc</b> as an only emoji font file there</li>
+        <li>Copy the downloaded font into that directory, and make sure you only have <b>AppleColorEmoji@2x.ttc</b> (with size over 90 MB) as an only emoji font file there</li>
       </ol>
     </div>
 	</div>
@@ -238,7 +238,7 @@
       </ul>
       <h3>Emoji10 (iOS 10)</h3>
       <ul>
-        <li>None at the moment</li>
+        <li>Bug at Messages quick reply?</li>
       </ul>
     </div>
   </div>
