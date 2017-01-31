@@ -47,15 +47,15 @@ Author: PoomSmart
 Name: AnySuggestEmoji
 
 Package: com.ps.anywherepredict
-Version: 1.0-3
+Version: 1.1
 Architecture: iphoneos-arm
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: .///debs/com.ps.anywherepredict_1.0-3_iphoneos-arm.deb
-Size: 3578
-MD5sum: 61d1bc4f4ce55304f053f19f944125c3
-SHA1: 2f3aab7732317919387f96c4cf223e97d06711ca
-SHA256: 97be2043736f8e39572b4663ed6c53869104da2732748f9e500f8f37c238bbef
+Filename: .///debs/com.ps.anywherepredict_1.1_iphoneos-arm.deb
+Size: 3814
+MD5sum: 7223dcd57492683b99c6158a81b7901d
+SHA1: a21850366b544abc84accc70505952d1be5cd6c1
+SHA256: 82fa7f911faae40383296107dc0906982735ac2e698c548a9d31bed732202dbd
 Section: Tweaks
 Description: Predictive keyboard anywhere.
 Author: PoomSmart
