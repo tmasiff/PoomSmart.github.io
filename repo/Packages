@@ -418,22 +418,6 @@ Description: Flipswitch for FLEXible.
 Author: PoomSmart
 Name: FLEXible Flipswitch
 
-Package: com.ps.forcetrait
-Version: 1.0-6
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.1)
-Filename: .///debs/com.ps.forcetrait_1.0-6_iphoneos-arm.deb
-Size: 4254
-MD5sum: f7de063f9a0b59c888a7d5d921b7f091
-SHA1: 7ea0ea4b68fba4cee03bf7fcdd4eaa6208f8b29a
-SHA256: 47eebfc4029245ef6ab8705cd0d66f702f14d6cc356972e2a32b9c50eae05f29
-Section: Tweaks
-Description: "Programmatically" enable camera Portrait feature
-Author: PoomSmart
-Name: Forcetrait
-
 Package: com.ps.fullsafari
 Version: 0.0.1-6
 Architecture: iphoneos-arm
@@ -446,6 +430,22 @@ Size: 7402
 MD5sum: 2d788c42952d449df56c78551e51141a
 SHA1: 01c43f6da6872551cfb731e2ba652e056ee0306a
 SHA256: b07a0b3bb3fa7a3c6f83f42cd6f7cada8caa0a2cc8f1770438bfeefa40970619
+Section: Tweaks
+Description: Enable iPad-like Safari tabs on any device, always.
+Author: bensge
+Name: FullSafari (Fix)
+
+Package: com.ps.fullsafari
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: bensge
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .///debs/com.ps.fullsafari_1.0.0_iphoneos-arm.deb
+Size: 7344
+MD5sum: 9a4292919ce480e18a86bb76f662107b
+SHA1: 381ac0e6b6e09c1c6d174184b060952d2820f451
+SHA256: 86e0cc25f35d80ec5cef52d677c40ac53523b5f73546c784debde76be8eebd5a
 Section: Tweaks
 Description: Enable iPad-like Safari tabs on any device, always.
 Author: bensge
