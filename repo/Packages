@@ -701,6 +701,22 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/tapformore/index.html
 Name: TapForMore
 
+Package: org.thebigboss.camblur7
+Version: 1.6.4
+Architecture: iphoneos-arm
+Installed-Size: 1276
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.transparentcamerabar, ws.hbang.common (>= 1.2), firmware (>= 7.0), gsc.still-camera | gsc.front-facing-camera
+Filename: .///debs/org.thebigboss.camblur7_1.6.4_iphoneos-arm.deb
+Size: 154126
+MD5sum: 43b07ba4e0ce65865eb00f537c9b454e
+SHA1: e180b31dfcd8f892aa384fab8633efd5f3654374
+SHA256: 3cca63db37897eba3dd8745b0924b482dff9f0274749aa98cec3b52d35f5cb46
+Section: Tweaks
+Description: Blurry cool camera interface.
+Author: PoomSmart
+Icon: file:///Library/PreferenceBundles/CamBlur7Settings/CamBlur7@2x.png
+Name: CamBlur7 (Debug)
+
 Package: org.thebigboss.cfprefsdfix
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -733,4 +749,20 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for volume change with buttons
 Author: PoomSmart
 Name: Change Vol With Buttons FS
+
+Package: org.thebigboss.transparentcamerabar
+Version: 1.7.4
+Architecture: iphoneos-arm
+Installed-Size: 1040
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0), ws.hbang.common (>= 1.2), gsc.still-camera | gsc.front-facing-camera
+Filename: .///debs/org.thebigboss.transparentcamerabar_1.7.4_iphoneos-arm.deb
+Size: 75342
+MD5sum: a19ad7216051014da2fb7b6167836988
+SHA1: a1aee2d14b6467b431ad66c2b3f357f6b35ef21b
+SHA256: 29d1b8e7279cbad4e25da94696b05aaf92a638b8c3a052825dcaf8f2cd6f8dff
+Section: Tweaks
+Description: Set opacity, hide and shrink camera bars.
+Author: PoomSmart
+Icon: file:///Library/PreferenceBundles/TransparentCameraBarSettings.bundle/TCB@2x.png
+Name: TransparentCameraBar (Debug)
 
