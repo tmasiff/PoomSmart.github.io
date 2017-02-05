@@ -750,6 +750,22 @@ Description: Flipswitch for volume change with buttons
 Author: PoomSmart
 Name: Change Vol With Buttons FS
 
+Package: org.thebigboss.recordntorch
+Version: 1.7.6
+Architecture: iphoneos-arm
+Installed-Size: 752
+Pre-Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0), gsc.camera-flash, gsc.still-camera
+Filename: .///debs/org.thebigboss.recordntorch_1.7.6_iphoneos-arm.deb
+Size: 29706
+MD5sum: 75d40c8a9f5befa2faf0918f6510a37a
+SHA1: 38419407b21ed6a801782de709c5cbce34d24688
+SHA256: e8a5a955f5b93ca2d5c1ba8da93e6cd859485924e51940d8e8e80fba8afdcdb8
+Section: Tweaks
+Description: Toggle Torch while recording video.
+Author: PoomSmart
+Icon: file:///Library/PreferenceLoaders/Preferences/TFV/TFV@2x.png
+Name: Record 'n' Torch (Debug)
+
 Package: org.thebigboss.transparentcamerabar
 Version: 1.7.4
 Architecture: iphoneos-arm
