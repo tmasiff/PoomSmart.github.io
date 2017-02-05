@@ -798,6 +798,23 @@ Author: PoomSmart
 Icon: file:///Library/PreferenceLoaders/Preferences/TFV/TFV@2x.png
 Name: Record 'n' Torch (Debug)
 
+Package: org.thebigboss.recordpause
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 752
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0)
+Filename: .///debs/org.thebigboss.recordpause_1.2_iphoneos-arm.deb
+Size: 53718
+MD5sum: eefb59e108856723008aa50482b6c7fe
+SHA1: bd7b7a62f5457ad4528b6e648cd7e0ce768d6e71
+SHA256: 3791e8d5b43fb59eab49ad5c0be7a6b9c911e5c146cab64188edc7a52f84de98
+Section: Tweaks
+Description: Pause/resume video recording.
+Author: PoomSmart
+Icon: file:///Library/PreferenceLoader/Preferences/RecordPause/RP@2x.png
+Name: RecordPause (Debug)
+
 Package: org.thebigboss.transparentcamerabar
 Version: 1.7.4
 Architecture: iphoneos-arm
