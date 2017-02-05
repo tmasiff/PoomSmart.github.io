@@ -701,6 +701,22 @@ Author: PoomSmart
 Depiction: http://PoomSmart.github.io/repo/tapformore/index.html
 Name: TapForMore
 
+Package: org.thebigboss.burstmode
+Version: 1.5.6
+Architecture: iphoneos-arm
+Installed-Size: 1532
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0), ws.hbang.common (>= 1.2), gsc.still-camera | gsc.front-facing-camera
+Filename: .///debs/org.thebigboss.burstmode_1.5.6_iphoneos-arm.deb
+Size: 105342
+MD5sum: 9af8dbad6824278e4a40a3ba97ba9270
+SHA1: 612f1409d0997fc415683ae903ce0996fcbb4df4
+SHA256: 025d66ce864aa6f5567740cd6d31daa689059cdf70d6e3a178c64a68df0aed48
+Section: Tweaks
+Description: Extended Burst mode feature for iOS.
+Author: PoomSmart
+Icon: file:///Library/PreferenceBundles/BurstModeSettings.bundle/BurstMode@2x.png
+Name: Burst Mode (Debug)
+
 Package: org.thebigboss.camblur7
 Version: 1.6.4
 Architecture: iphoneos-arm
