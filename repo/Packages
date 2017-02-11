@@ -31,16 +31,16 @@ Author: PoomSmart
 Name: 3G Unrestrictor Flipswitch
 
 Package: com.ps.anysuggestemoji
-Version: 1.0.0-3+debug
+Version: 1.0.0-5+debug
 Architecture: iphoneos-arm
 Maintainer: PoomSmart
 Installed-Size: 140
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: .///debs/com.ps.anysuggestemoji_1.0.0-3+debug_iphoneos-arm.deb
-Size: 7826
-MD5sum: b1e00035cfaec35349227d94e5258d67
-SHA1: 7a567116e7f0e8e50a7ce20c1e69d069147462a2
-SHA256: 2249a2a20cc18e869890dc53a242ca47f2636d701bfe3d6c47d68aaa4c19fe67
+Filename: .///debs/com.ps.anysuggestemoji_1.0.0-5+debug_iphoneos-arm.deb
+Size: 7280
+MD5sum: 22d233b96dec39331177c6eef06c9a8e
+SHA1: da77fceb990da2e99fea182e526c5dc46cb9f900
+SHA256: 8b4744c08c59eb5118d3663a0a978b0df2e1e1cef092d60c5af009a13fd40abc
 Section: Tweaks
 Description: Emoji suggestions anywhere.
 Author: PoomSmart
@@ -814,20 +814,4 @@ Description: Pause/resume video recording.
 Author: PoomSmart
 Icon: file:///Library/PreferenceLoader/Preferences/RecordPause/RP@2x.png
 Name: RecordPause (Debug)
-
-Package: org.thebigboss.transparentcamerabar
-Version: 1.7.4
-Architecture: iphoneos-arm
-Installed-Size: 1040
-Depends: mobilesubstrate, preferenceloader, firmware (>= 5.0), ws.hbang.common (>= 1.2), gsc.still-camera | gsc.front-facing-camera
-Filename: .///debs/org.thebigboss.transparentcamerabar_1.7.4_iphoneos-arm.deb
-Size: 75342
-MD5sum: a19ad7216051014da2fb7b6167836988
-SHA1: a1aee2d14b6467b431ad66c2b3f357f6b35ef21b
-SHA256: 29d1b8e7279cbad4e25da94696b05aaf92a638b8c3a052825dcaf8f2cd6f8dff
-Section: Tweaks
-Description: Set opacity, hide and shrink camera bars.
-Author: PoomSmart
-Icon: file:///Library/PreferenceBundles/TransparentCameraBarSettings.bundle/TCB@2x.png
-Name: TransparentCameraBar (Debug)
 
