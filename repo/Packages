@@ -733,22 +733,6 @@ Author: PoomSmart
 Icon: file:///Library/PreferenceBundles/CamBlur7Settings/CamBlur7@2x.png
 Name: CamBlur7 (Debug)
 
-Package: org.thebigboss.cameramodes
-Version: 1.1.5
-Architecture: iphoneos-arm
-Installed-Size: 328
-Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Conflicts: org.thebigboss.nosquare
-Filename: .///debs/org.thebigboss.cameramodes_1.1.5_iphoneos-arm.deb
-Size: 52714
-MD5sum: 22bcf6ea6cad39ce7a1be414d1ae6f48
-SHA1: 468b5acd86f4bf05185a4566b1c70c27a4bc583d
-SHA256: adf19bf7808dc8ca5a1192a6dc6d820d83fdb717b51fa84cf7b215cfa9ea6adf
-Section: Tweaks
-Description: Specific available camera modes.
-Author: PoomSmart
-Name: CameraModes (Debug)
-
 Package: org.thebigboss.cfprefsdfix
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -781,6 +765,21 @@ Section: Addons (Flipswitch)
 Description: Flipswitch for volume change with buttons
 Author: PoomSmart
 Name: Change Vol With Buttons FS
+
+Package: org.thebigboss.phototorch
+Version: 1.6.2
+Architecture: iphoneos-arm
+Installed-Size: 1260
+Pre-Depends: firmware (>= 6.0), gsc.camera-flash
+Depends: mobilesubstrate, preferenceloader
+Filename: .///debs/org.thebigboss.phototorch_1.6.2_iphoneos-arm.deb
+Size: 150996
+MD5sum: 6622aabb7799725ee2cb04625e68f0cf
+SHA1: 9b58f92e3e8e9f1a4cdc78f2fa451c550b4e0c21
+SHA256: 195a041a07ab5a7ac8c14175a013476e7f0b50f7345cf0f5724dd1c3594799d0
+Description: adjustable torch for camera app.
+Author: PoomSmart
+Name: PhotoTorch (Debug)
 
 Package: org.thebigboss.recordntorch
 Version: 1.7.6
