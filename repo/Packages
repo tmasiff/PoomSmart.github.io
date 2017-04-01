@@ -78,6 +78,22 @@ Description: Emoji suggestions anywhere.
 Author: PoomSmart
 Name: AnySuggestEmoji
 
+Package: com.ps.anysuggestemoji
+Version: 1.0.0-9+debug
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: .///debs/com.ps.anysuggestemoji_1.0.0-9+debug_iphoneos-arm.deb
+Size: 7944
+MD5sum: b1cdd9f54503eb456c19c8baaef7ebf7
+SHA1: 339f95fb94533fbba9f589e586009c8d62709e73
+SHA256: ca179653e6ad91e1ea0f6a86d68b424e64934f53675fd02a35f83b67b96e15cf
+Section: Tweaks
+Description: Emoji suggestions anywhere.
+Author: PoomSmart
+Name: AnySuggestEmoji
+
 Package: com.ps.anywherepredict
 Version: 1.1
 Architecture: iphoneos-arm
